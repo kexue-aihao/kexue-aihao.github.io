@@ -8,7 +8,7 @@
       <link href="/2024/11/06/chang-ding-yun-ji-chang-jing-nei-zhong-zhuan-dan-ren-fang-an/"/>
       <url>/2024/11/06/chang-ding-yun-ji-chang-jing-nei-zhong-zhuan-dan-ren-fang-an/</url>
       
-        <content type="html"><![CDATA[<p>GUID：6fd6530d-3a07-4b64-aad1-070feb49c9d9<br>UTC 日期和时间: 2024-11-06T11:13:51Z<br>UNIX 时间戳：1730891640</p><hr><p>方案说明：</p><p>1.选择本方案，付费之后，境内中转的SS节点，原则上仅允许个人使用，如果使用分享的化，需要自行承担风险</p><p>2.选择本方案，付费之后，允许对接10个节点作为境内中转节点，可以选择机场的落地机器进行中转加速，也可以选择机场的落地机器加上自己的落地机器进行中转，数量不能超过10个</p><p>3.境内中转机器为深圳移动、安徽移动、中山移动、中港IPLC</p><hr>]]></content>
+        <content type="html"><![CDATA[<p>GUID：6fd6530d-3a07-4b64-aad1-070feb49c9d9<br>UTC 日期和时间: 2024-11-06T11:13:51Z<br>UNIX 时间戳：1730891640</p><hr><p>方案说明：</p><p>1.选择本方案，付费之后，境内中转的SS节点，原则上仅允许个人使用，如果使用分享的化，需要自行承担风险</p><p>2.选择本方案，付费之后，允许对接10个节点作为境内中转节点，可以选择机场的落地机器进行中转加速，也可以选择机场的落地机器加上自己的落地机器进行中转，数量不能超过10个</p><p>3.境内中转机器为深圳移动、安徽移动、中山移动、中港IPLC</p><hr><p>深圳移动付费方案:</p><pre><code>CPU:1CMemory:1GDisk:20GNetwork speed:200M流量:500G定价:26元/月CPU:1CMemory:1GDisk:20GNetwork speed:400M流量:800G定价:40元/月CPU:2CMemory:2GDisk:20GNetwork speed:400M流量:1000G定价:50元/月CPU:2CMemory:2GDisk:20GNetwork speed:800M流量:1500G定价:70元/月</code></pre><hr><hr><p>安徽移动付费方案:</p><pre><code>CPU:1CMemory:512MDisk:10GNetwork speed:100M流量:1000G定价:150元/年</code></pre><hr><hr><p>中山移动付费方案:</p><pre><code>CPU:1CMemory:1GDisk:20GNetwork speed:200M流量:500G定价:26元/月CPU:1CMemory:1GDisk:20GNetwork speed:400M流量:800G定价:40元/月CPU:2CMemory:2GDisk:20GNetwork speed:400M流量:1000G定价:50元/月CPU:2CMemory:2GDisk:20GNetwork speed:800M流量:1500G定价:70元/月</code></pre><hr><hr><p>中港IPLC付费方案:</p><pre><code>CPU:1CMemory:512MDisk:10GNetwork speed:100M流量:400G定价:120元/月</code></pre><hr>]]></content>
       
       
       <categories>
