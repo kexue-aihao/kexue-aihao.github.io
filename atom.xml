@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2024-11-06T11:38:05.818Z</updated>
+  <updated>2024-11-06T11:55:16.920Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>中文版机场帮助文档</title>
+    <link href="https://kexue-aihao.github.io/2024/11/06/zhong-wen-ban-ji-chang-bang-zhu-wen-dang/"/>
+    <id>https://kexue-aihao.github.io/2024/11/06/zhong-wen-ban-ji-chang-bang-zhu-wen-dang/</id>
+    <published>2024-11-06T11:40:44.000Z</published>
+    <updated>2024-11-06T11:55:16.920Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;GUID：5607fd6a-f8ea-4cfc-b382-af0a71c06221&lt;br&gt;UTC 日期和时间: 2024-11-06T11:42:09Z&lt;br&gt;UNIX 时间戳：1730893338&lt;/p&gt;
+&lt;h1 id=&quot;中文版机场帮助文档索引&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="机场教程" scheme="https://kexue-aihao.github.io/categories/%E6%9C%BA%E5%9C%BA%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="常定云机场" scheme="https://kexue-aihao.github.io/tags/%E5%B8%B8%E5%AE%9A%E4%BA%91%E6%9C%BA%E5%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>如何定制独立服务器专属节点</title>
