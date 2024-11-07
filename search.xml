@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>DNS大全</title>
+      <link href="/2024/11/07/dns-da-quan/"/>
+      <url>/2024/11/07/dns-da-quan/</url>
+      
+        <content type="html"><![CDATA[<p>GUID：ffd84c42-109b-4607-82ba-7fdfc62a4854<br>UTC 日期和时间: 2024-11-07T03:34:19Z<br>UNIX 时间戳：1730950470</p><h1 id="国内常用公共DNS"><a href="#国内常用公共DNS" class="headerlink" title="国内常用公共DNS"></a>国内常用公共DNS</h1><h2 id="114-DNS"><a href="#114-DNS" class="headerlink" title="114 DNS:"></a>114 DNS:</h2><p>114.114.114.114</p><p>114.114.115.115</p><h2 id="114-DNS-安全版"><a href="#114-DNS-安全版" class="headerlink" title="114 DNS 安全版:"></a>114 DNS 安全版:</h2><p>114.114.114.119</p><p>114.114.115.119</p><h2 id="114-DNS-家庭版"><a href="#114-DNS-家庭版" class="headerlink" title="114 DNS 家庭版:"></a>114 DNS 家庭版:</h2><p>114.114.114.110</p><p>114.114.115.110</p><h2 id="阿里-DNS"><a href="#阿里-DNS" class="headerlink" title="阿里 DNS:"></a>阿里 DNS:</h2><p>223.5.5.5</p><p>223.6.6.6</p><h2 id="百度-DNS"><a href="#百度-DNS" class="headerlink" title="百度 DNS:"></a>百度 DNS:</h2><p>180.76.76.76</p><h2 id="Tencent-公共DNS"><a href="#Tencent-公共DNS" class="headerlink" title="Tencent 公共DNS:"></a>Tencent 公共DNS:</h2><p>119.29.29.29</p><p>119.28.28.28</p><p>182.254.118.118</p><p>182.254.116.116</p><h2 id="PandaDNS"><a href="#PandaDNS" class="headerlink" title="PandaDNS:"></a>PandaDNS:</h2><p>115.159.157.26</p><p>115.159.158.38</p><h2 id="CNNIC-SDNS"><a href="#CNNIC-SDNS" class="headerlink" title="CNNIC SDNS:"></a>CNNIC SDNS:</h2><p>1.2.4.8</p><p>210.2.4.8</p><h2 id="OneDNS"><a href="#OneDNS" class="headerlink" title="OneDNS:"></a>OneDNS:</h2><p>112.124.47.27</p><p>114.215.126.16</p><h2 id="派-DNS"><a href="#派-DNS" class="headerlink" title="派 DNS:"></a>派 DNS:</h2><p>101.226.4.6</p><p>218.30.118.6</p><p>123.125.81.6</p><p>140.207.198.6</p><h2 id="OpenDNS"><a href="#OpenDNS" class="headerlink" title="OpenDNS:"></a>OpenDNS:</h2><p>208.67.222.222</p><p>208.67.220.220</p><h2 id="蘑菇-DNS"><a href="#蘑菇-DNS" class="headerlink" title="蘑菇 DNS:"></a>蘑菇 DNS:</h2><p>115.159.96.69</p><p>122.114.245.45</p><h2 id="Worldlink-DNS-分为两组DNS对应南北方"><a href="#Worldlink-DNS-分为两组DNS对应南北方" class="headerlink" title="Worldlink DNS: (分为两组DNS对应南北方)"></a>Worldlink DNS: (分为两组DNS对应南北方)</h2><h2 id="北方DNS"><a href="#北方DNS" class="headerlink" title="北方DNS:"></a>北方DNS:</h2><p>123.207.137.88</p><p>122.114.245.45</p><p>115.159.157.26</p><h2 id="南方DNS"><a href="#南方DNS" class="headerlink" title="南方DNS:"></a>南方DNS:</h2><p>115.159.220.215</p><p>115.159.96.69</p><p>115.159.158.38</p><h2 id="中国电信"><a href="#中国电信" class="headerlink" title="中国电信:"></a>中国电信:</h2><p>202.141.162.123</p><h2 id="教育网"><a href="#教育网" class="headerlink" title="教育网:"></a>教育网:</h2><p>202.38.93.153</p><h2 id="中国移动"><a href="#中国移动" class="headerlink" title="中国移动:"></a>中国移动:</h2><p>202.141.176.93</p><h2 id="中国台湾中华电信-HiNet-DNS"><a href="#中国台湾中华电信-HiNet-DNS" class="headerlink" title="中国台湾中华电信 HiNet DNS:"></a>中国台湾中华电信 HiNet DNS:</h2><p>168.95.192.1</p><p>168.95.1.1</p><h1 id="国外公共DNS"><a href="#国外公共DNS" class="headerlink" title="国外公共DNS"></a>国外公共DNS</h1><h2 id="Google-DNS"><a href="#Google-DNS" class="headerlink" title="Google DNS:"></a>Google DNS:</h2><p>8.8.8.8</p><p>8.8.4.4</p><h2 id="Microsoft-DNS"><a href="#Microsoft-DNS" class="headerlink" title="Microsoft DNS:"></a>Microsoft DNS:</h2><p>4.2.2.1</p><p>4.2.2.2</p><h2 id="Comodo-Secure"><a href="#Comodo-Secure" class="headerlink" title="Comodo Secure"></a>Comodo Secure</h2><p>8.26.56.26</p><p>8.20.247.20</p><h2 id="UltraDNS："><a href="#UltraDNS：" class="headerlink" title="UltraDNS："></a>UltraDNS：</h2><p>156.154.70.1</p><p>156.154.71.1</p><h2 id="Norton-ConnectSafe"><a href="#Norton-ConnectSafe" class="headerlink" title="Norton ConnectSafe:"></a>Norton ConnectSafe:</h2><p>199.85.126.10</p><p>199.85.127.10</p><h2 id="威瑞信公共DNS"><a href="#威瑞信公共DNS" class="headerlink" title="威瑞信公共DNS:"></a>威瑞信公共DNS:</h2><p>64.6.64.6</p><p>64.6.65.6</p><h2 id="Dyn-DNS"><a href="#Dyn-DNS" class="headerlink" title="Dyn DNS:"></a>Dyn DNS:</h2><p>216.146.35.35</p><p>216.146.36.36</p><h2 id="Freenom-World-DNS"><a href="#Freenom-World-DNS" class="headerlink" title="Freenom World DNS:"></a>Freenom World DNS:</h2><p>80.80.80.80</p><p>80.80.81.81</p><blockquote><p>如上所有DNS都是经过网络搜寻并整理出来的DNS，耗费了三十多分钟进行查找，暂未有空进行检测DNS有效性，希望各位如果有用到不能用做解析用途的朋友们，可以来找我反馈一下，找我反馈网页聊天室反馈或者在评论区反馈就行了</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> DNS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 科普 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>怎么绑定查询流量机器人</title>
       <link href="/2024/11/07/zen-me-bang-ding-cha-xun-liu-liang-ji-qi-ren/"/>
       <url>/2024/11/07/zen-me-bang-ding-cha-xun-liu-liang-ji-qi-ren/</url>

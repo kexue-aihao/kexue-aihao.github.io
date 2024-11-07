@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2024-11-07T03:02:22.883Z</updated>
+  <updated>2024-11-07T03:46:53.075Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DNS大全</title>
+    <link href="https://kexue-aihao.github.io/2024/11/07/dns-da-quan/"/>
+    <id>https://kexue-aihao.github.io/2024/11/07/dns-da-quan/</id>
+    <published>2024-11-07T03:30:08.000Z</published>
+    <updated>2024-11-07T03:46:53.075Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;GUID：ffd84c42-109b-4607-82ba-7fdfc62a4854&lt;br&gt;UTC 日期和时间: 2024-11-07T03:34:19Z&lt;br&gt;UNIX 时间戳：1730950470&lt;/p&gt;
+&lt;h1 id=&quot;国内常用公共DNS&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="DNS" scheme="https://kexue-aihao.github.io/categories/DNS/"/>
+    
+    
+    <category term="科普" scheme="https://kexue-aihao.github.io/tags/%E7%A7%91%E6%99%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>怎么绑定查询流量机器人</title>
