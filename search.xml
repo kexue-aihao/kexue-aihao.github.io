@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Windows11系统封装札记</title>
+      <link href="/2024/11/07/windows11-xi-tong-feng-zhuang-zha-ji/"/>
+      <url>/2024/11/07/windows11-xi-tong-feng-zhuang-zha-ji/</url>
+      
+        <content type="html"><![CDATA[<p>GUID：589cdc14-f0be-4301-9af3-f84378a614b1<br>UTC 日期和时间: 2024-11-07T11:54:06Z<br>UNIX 时间戳：1730980450</p><h1 id="Windows-11系统封装札记"><a href="#Windows-11系统封装札记" class="headerlink" title="Windows 11系统封装札记"></a>Windows 11系统封装札记</h1><blockquote><p>封装日期:2024-10-16</p></blockquote><h2 id="Windows-11-家庭版-22000-1"><a href="#Windows-11-家庭版-22000-1" class="headerlink" title="Windows 11 家庭版 22000.1"></a>Windows 11 家庭版 22000.1</h2><h3 id="sysprep封装组件报错记录"><a href="#sysprep封装组件报错记录" class="headerlink" title="sysprep封装组件报错记录"></a>sysprep封装组件报错记录</h3><pre><code>安装Bandizip封装组件异常工作安装Bandiview封装组件异常工作保留 Windows 11 基础APPX应用，恢复图片APPX，封装组件异常工作</code></pre><h3 id="sysprep封装组件成功记录"><a href="#sysprep封装组件成功记录" class="headerlink" title="sysprep封装组件成功记录"></a>sysprep封装组件成功记录</h3><pre><code>更新内置所有APPX保留基础APPX，封装组件正常工作安装7z解压缩软件，封装组件正常工作集成便携增强版Google Chrome V128.0.6613.120集成清理软件CCleaner集成文件哈希工具集成天若OCR文字识别集成专业软件卸载工具TotalUninstall集成Windows超级管理器9.46集成火绒文件粉碎单文件版集成Telegram便携版集成V2rayN集成Potplayer播放器集成Office 2021集成Snipaste截图软件</code></pre><p>封装部署驱动界面：</p><p><img src="/img/Windows11%E5%B0%81%E8%A3%85%E6%9C%AD%E8%AE%B0/1.png" alt="image" title="封装部署驱动界面"></p><p>封装部署完成后进入桌面界面:</p><p><img src="/img/Windows11%E5%B0%81%E8%A3%85%E6%9C%AD%E8%AE%B0/2.png" alt="image" title="封装部署完成后进入桌面界面"></p><p>封装部署完成后查看计算机属性:</p><p><img src="/img/Windows11%E5%B0%81%E8%A3%85%E6%9C%AD%E8%AE%B0/3.png" alt="image" title="封装部署完成后查看计算机属性"></p><p>VMware Workstation Pro 封装快照记录:</p><p><img src="/img/Windows11%E5%B0%81%E8%A3%85%E6%9C%AD%E8%AE%B0/4.png" alt="image" title="VMware Workstation Pro 封装快照记录"></p><blockquote><p>封装日期:2024-10-17</p></blockquote><h2 id="Windows-11-家庭中文版-22000-1"><a href="#Windows-11-家庭中文版-22000-1" class="headerlink" title="Windows 11 家庭中文版 22000.1"></a>Windows 11 家庭中文版 22000.1</h2><h3 id="sysprep封装组件报错记录-1"><a href="#sysprep封装组件报错记录-1" class="headerlink" title="sysprep封装组件报错记录"></a>sysprep封装组件报错记录</h3><pre><code>安装Bandizip封装组件异常工作安装Bandiview封装组件异常工作保留 Windows 11 基础APPX应用，恢复图片APPX，封装组件异常工作</code></pre><h3 id="sysprep封装组件成功记录-1"><a href="#sysprep封装组件成功记录-1" class="headerlink" title="sysprep封装组件成功记录"></a>sysprep封装组件成功记录</h3><pre><code>更新内置所有APPX保留基础APPX，封装组件正常工作安装7z解压缩软件，封装组件正常工作集成便携增强版Google Chrome V128.0.6613.120集成清理软件CCleaner集成文件哈希工具集成天若OCR文字识别集成专业软件卸载工具TotalUninstall集成Windows超级管理器9.46集成火绒文件粉碎单文件版集成Telegram便携版集成V2rayN集成Potplayer播放器集成Office 2021集成Snipaste截图软件</code></pre><h2 id="Windows-11-专业版-22000-3260"><a href="#Windows-11-专业版-22000-3260" class="headerlink" title="Windows 11 专业版 22000.3260"></a>Windows 11 专业版 22000.3260</h2><h3 id="sysprep封装组件报错记录-2"><a href="#sysprep封装组件报错记录-2" class="headerlink" title="sysprep封装组件报错记录"></a>sysprep封装组件报错记录</h3><pre><code>安装Bandizip封装组件异常工作安装Bandiview封装组件异常工作保留 Windows 11 基础APPX应用，恢复图片APPX，封装组件异常工作封装成功但是丢APPX</code></pre><h3 id="sysprep封装组件成功记录-2"><a href="#sysprep封装组件成功记录-2" class="headerlink" title="sysprep封装组件成功记录"></a>sysprep封装组件成功记录</h3><pre><code>更新内置所有APPX保留基础APPX，封装组件正常工作安装7z解压缩软件，封装组件正常工作集成便携增强版Google Chrome V128.0.6613.120集成清理软件CCleaner集成文件哈希工具集成天若OCR文字识别集成专业软件卸载工具TotalUninstall集成Windows超级管理器9.46集成火绒文件粉碎单文件版集成Telegram便携版集成V2rayN集成Potplayer播放器集成Office 2021集成Snipaste截图软件集成Windows 11 开始菜单增强工具</code></pre><blockquote><p>封装日期:2024-10-18</p></blockquote><h2 id="Windows-11-企业版-22000-3260"><a href="#Windows-11-企业版-22000-3260" class="headerlink" title="Windows 11 企业版 22000.3260"></a>Windows 11 企业版 22000.3260</h2><h3 id="sysprep封装组件报错记录-3"><a href="#sysprep封装组件报错记录-3" class="headerlink" title="sysprep封装组件报错记录"></a>sysprep封装组件报错记录</h3><pre><code>安装Bandizip封装组件异常工作安装Bandiview封装组件异常工作保留 Windows 11 基础APPX应用，恢复图片APPX，封装组件异常工作封装成功但是丢APPX封装报5.3错误</code></pre><h3 id="sysprep封装组件成功记录-3"><a href="#sysprep封装组件成功记录-3" class="headerlink" title="sysprep封装组件成功记录"></a>sysprep封装组件成功记录</h3><pre><code>更新内置所有APPX保留基础APPX，封装组件正常工作安装7z解压缩软件，封装组件正常工作集成便携增强版Google Chrome V128.0.6613.120集成清理软件CCleaner集成文件哈希工具集成天若OCR文字识别集成专业软件卸载工具TotalUninstall集成Windows超级管理器9.46集成火绒文件粉碎单文件版集成Telegram便携版集成V2rayN集成Potplayer播放器集成Office 2021集成Snipaste截图软件集成Windows 11 开始菜单增强工具</code></pre><ul><li><p>评论系统评论只需要填写昵称和邮箱即可发表评论，网址如果有也可以填写</p></li><li><p>任何人评论都要对自己的言论负责，评论区不是法外之地</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows11 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows系统封装札记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>国防在我心中</title>
       <link href="/2024/11/07/guo-fang-zai-wo-xin-zhong/"/>
       <url>/2024/11/07/guo-fang-zai-wo-xin-zhong/</url>
