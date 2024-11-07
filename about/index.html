@@ -650,7 +650,7 @@
                 type: 'pie',
                 radius: '50%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [{"name":"DNS","value":1},{"name":"Shadowrocket共享账号去哪里获取","value":1},{"name":"Windows软件","value":1},{"name":"常定云定制节点","value":3},{"name":"机场邀请机制说明","value":1},{"name":"机场教程","value":4},{"name":"常定云机场测速","value":1},{"name":"教育网","value":1},{"name":"Pyqt5","value":1},{"name":"爱纯净系统","value":1},{"name":"美化教程","value":1},{"name":"优化教程","value":1},{"name":"ITDOG","value":1}],
+                data: [{"name":"DNS","value":1},{"name":"ITDOG","value":1},{"name":"Windows软件","value":1},{"name":"Pyqt5","value":1},{"name":"Shadowrocket共享账号去哪里获取","value":1},{"name":"美化教程","value":1},{"name":"优化教程","value":1},{"name":"常定云定制节点","value":3},{"name":"机场教程","value":4},{"name":"机场邀请机制说明","value":1},{"name":"常定云机场测速","value":1},{"name":"教育网","value":1},{"name":"爱纯净系统","value":1}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -674,7 +674,7 @@
         xAxis: [
             {
                 type: 'category',
-                data: ["常定云机场","科普","系统","软件安利","笔记","系统分享","网站安利"]
+                data: ["常定云机场","科普","系统","网站安利","软件安利","笔记","系统分享"]
             }
         ],
         yAxis: [
@@ -833,8 +833,8 @@
             
             
             
-            <a href="/tags/%E5%B8%B8%E5%AE%9A%E4%BA%91%E6%9C%BA%E5%9C%BA/">
-                <span class="chip center-align waves-effect waves-light chip-default">常定云机场</span>
+            <a href="/tags/%E7%BD%91%E7%AB%99%E5%AE%89%E5%88%A9/">
+                <span class="chip center-align waves-effect waves-light chip-default">网站安利</span>
             </a>
             
             
@@ -851,8 +851,8 @@
             
             
             
-            <a href="/tags/%E7%B3%BB%E7%BB%9F%E5%88%86%E4%BA%AB/">
-                <span class="chip center-align waves-effect waves-light chip-default">系统分享</span>
+            <a href="/tags/%E5%B8%B8%E5%AE%9A%E4%BA%91%E6%9C%BA%E5%9C%BA/">
+                <span class="chip center-align waves-effect waves-light chip-default">常定云机场</span>
             </a>
             
             
@@ -863,8 +863,8 @@
             
             
             
-            <a href="/tags/%E7%BD%91%E7%AB%99%E5%AE%89%E5%88%A9/">
-                <span class="chip center-align waves-effect waves-light chip-default">网站安利</span>
+            <a href="/tags/%E7%B3%BB%E7%BB%9F%E5%88%86%E4%BA%AB/">
+                <span class="chip center-align waves-effect waves-light chip-default">系统分享</span>
             </a>
             
             
@@ -1036,8 +1036,8 @@
                         var startMonth = "11";
                         var startDate = "4";
                         var startHour = "0";
-                        var startMinute = "10";
-                        var startSecond = "20";
+                        var startMinute = "0";
+                        var startSecond = "0";
                         var todayYear = today.getFullYear();
                         var todayMonth = today.getMonth() + 1;
                         var todayDate = today.getDate();
@@ -1121,6 +1121,11 @@
 
 </div>
     </div>
+<script src="/js/site - running - time.js"></script>
+<script>
+    var runningTime = siteRunningTime();
+    document.write('本站已平稳运行 ' + runningTime.days +'天'+ runningTime.hours +'小时'+ runningTime.minutes +'分钟'+ runningTime.seconds +'秒');
+</script>
 </footer>
 
 <div class="progress-bar"></div>

@@ -1273,8 +1273,8 @@
                         var startMonth = "11";
                         var startDate = "4";
                         var startHour = "0";
-                        var startMinute = "10";
-                        var startSecond = "20";
+                        var startMinute = "0";
+                        var startSecond = "0";
                         var todayYear = today.getFullYear();
                         var todayMonth = today.getMonth() + 1;
                         var todayDate = today.getDate();
@@ -1358,6 +1358,11 @@
 
 </div>
     </div>
+<script src="/js/site - running - time.js"></script>
+<script>
+    var runningTime = siteRunningTime();
+    document.write('本站已平稳运行 ' + runningTime.days +'天'+ runningTime.hours +'小时'+ runningTime.minutes +'分钟'+ runningTime.seconds +'秒');
+</script>
 </footer>
 
 <div class="progress-bar"></div>
