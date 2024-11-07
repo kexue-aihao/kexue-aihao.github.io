@@ -7,7 +7,8 @@
     <meta name="keywords" content="Pyqt5课程笔记, AHRTのblog">
     <meta name="description" content="GUID：12bf23b7-9197-41ad-b7a2-455971559efaUTC 日期和时间: 2024-11-07T06:16:29ZUNIX 时间戳：1730960193
 按钮的常用属性Text按钮上面显示的文字
-Font按钮上">
+
+Font按钮">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -438,16 +439,23 @@ Font按钮上">
         <div class="card-content article-card-content">
             <div id="articleContent">
                 <p>GUID：12bf23b7-9197-41ad-b7a2-455971559efa<br>UTC 日期和时间: 2024-11-07T06:16:29Z<br>UNIX 时间戳：1730960193</p>
-<h2 id="按钮的常用属性"><a href="#按钮的常用属性" class="headerlink" title="按钮的常用属性"></a>按钮的常用属性</h2><p>Text按钮上面显示的文字</p>
-<p>Font按钮上显示文字的字体类型及大小</p>
-<p>按钮的常用信号</p>
-<p>点击信号(clicked)</p>
-<h2 id="组件-标签"><a href="#组件-标签" class="headerlink" title="组件:标签"></a>组件:标签</h2><p>标签属于QLabel</p>
-<p>标签的常用属性</p>
-<p>Text按钮上面显示的文字</p>
-<p>Font按钮上显示文字的字体类型及大小</p>
-<p>技巧:</p>
-<pre><code>· 如果要取得某个组件的属性值 self.组件的名字，属性的名字()
+<h2 id="按钮的常用属性"><a href="#按钮的常用属性" class="headerlink" title="按钮的常用属性"></a>按钮的常用属性</h2><pre><code>Text按钮上面显示的文字
+
+Font按钮上显示文字的字体类型及大小
+
+按钮的常用信号
+
+点击信号(clicked)
+</code></pre>
+<h2 id="组件-标签"><a href="#组件-标签" class="headerlink" title="组件:标签"></a>组件:标签</h2><pre><code>标签属于QLabel
+
+标签的常用属性
+
+Text按钮上面显示的文字
+
+Font按钮上显示文字的字体类型及大小
+</code></pre>
+<h2 id="技巧"><a href="#技巧" class="headerlink" title="技巧:"></a>技巧:</h2><pre><code>· 如果要取得某个组件的属性值 self.组件的名字，属性的名字()
 
 · 举例：如果要得到按钮pb_1上面显示的文字
 
@@ -460,26 +468,20 @@ Font按钮上">
 · self.label,setText('鸡你太美')
 </code></pre>
 <p>1.设计界面</p>
-<blockquote>
-<p>注意事项：对每一个组件改名字，命名方式要容易记忆</p>
-</blockquote>
-<blockquote>
-<p>名字不能含有除了下划线以外的其他特殊字符</p>
-</blockquote>
-<blockquote>
-<p>名字要以小写字母开头</p>
-</blockquote>
-<blockquote>
-<p>如果名字超过一个单词 要使用骆驼峰式写法</p>
-</blockquote>
+<pre><code>注意事项：对每一个组件改名字，命名方式要容易记忆
+
+名字不能含有除了下划线以外的其他特殊字符
+
+名字要以小写字母开头
+
+如果名字超过一个单词 要使用骆驼峰式写法
+</code></pre>
 <p>2.使用转换器 把界面文件转换为python程序代码</p>
-<blockquote>
-<p>注意事项：如果界面发生改变 要及时保存 并且要重新进行转换</p>
-</blockquote>
+<pre><code>注意事项：如果界面发生改变 要及时保存 并且要重新进行转换
+</code></pre>
 <p>3.编写文件名为main的python程序文件</p>
-<blockquote>
-<p>注意事项：每个项目只能有一个main文件</p>
-</blockquote>
+<pre><code>注意事项：每个项目只能有一个main文件
+</code></pre>
 <h2 id="编写main文件的步骤"><a href="#编写main文件的步骤" class="headerlink" title="编写main文件的步骤"></a>编写main文件的步骤</h2><p>假设 当前只有一个界面文件 这个文件文件名为 A.ui在这个界面中，假设这个窗体的对象名是b.</p>
 <p>那么 通过转换器转换之后的程序文件是 A.py程序文件中界面类的类名是 Ui_b</p>
 <pre><code>step1
@@ -557,13 +559,11 @@ textChangeed (string) 文本改变信号
 
 textEdited (string) 文本输入信号
 </code></pre>
-<p>PyQt5开发程序的时候</p>
-<pre><code>1.设计界面.ui
+<h2 id="PyQt5开发程序的时候"><a href="#PyQt5开发程序的时候" class="headerlink" title="PyQt5开发程序的时候"></a>PyQt5开发程序的时候</h2><pre><code>1.设计界面.ui
 2.界面的转换.py
 3.编写主程序
 </code></pre>
-<p>引入系统包(类)</p>
-<pre><code>import sys 引入sys类(针对的是操作系统 控制程序的运行)
+<h3 id="引入系统包-类"><a href="#引入系统包-类" class="headerlink" title="引入系统包(类)"></a>引入系统包(类)</h3><pre><code>import sys 引入sys类(针对的是操作系统 控制程序的运行)
 from PyQt5.QtWidgets *
 从PyQt5的QtWidgets包中引入 所有的类(界面组件相关)
 from PyQt5.QtCore import *
@@ -571,8 +571,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 从PyQt5的QtGui包当中引入所有类(图形图像功能相关)
 </code></pre>
-<p>引入界面类</p>
-<pre><code>from win import ui_zhuChuangKou 从界面文件(.py)当中引入Ui类
+<h3 id="引入界面类"><a href="#引入界面类" class="headerlink" title="引入界面类"></a>引入界面类</h3><pre><code>from win import ui_zhuChuangKou 从界面文件(.py)当中引入Ui类
 
 创建一个新的窗口类(主要是实现程序的逻辑相当于MVC模式中的CM)
 
@@ -584,17 +583,13 @@ from PyQt5.QtGui import *
 
 class ChuangKou(QMainwindow,Ui_zhuChuangKou):
 </code></pre>
-<p>重写构造函数 要在构造函数中传入一个参数 值是None</p>
-<pre><code>def __init(self,parent=None):
+<h2 id="重写构造函数-要在构造函数中传入一个参数-值是None"><a href="#重写构造函数-要在构造函数中传入一个参数-值是None" class="headerlink" title="重写构造函数 要在构造函数中传入一个参数 值是None"></a>重写构造函数 要在构造函数中传入一个参数 值是None</h2><pre><code>def __init(self,parent=None):
 </code></pre>
-<p>在构造函数中 调用父类的构造函数</p>
-<pre><code>super(ChuangKou,self).__init__(parent)
+<h2 id="在构造函数中-调用父类的构造函数"><a href="#在构造函数中-调用父类的构造函数" class="headerlink" title="在构造函数中 调用父类的构造函数"></a>在构造函数中 调用父类的构造函数</h2><pre><code>super(ChuangKou,self).__init__(parent)
 </code></pre>
-<p>初始化界面</p>
-<pre><code>self,setupUi(self)
+<h2 id="初始化界面"><a href="#初始化界面" class="headerlink" title="初始化界面"></a>初始化界面</h2><pre><code>self,setupUi(self)
 </code></pre>
-<p>第二种窗体类型 Widget (组件/小工具)</p>
-<pre><code>属于的类:QWidget
+<h2 id="第二种窗体类型-Widget-组件-小工具"><a href="#第二种窗体类型-Widget-组件-小工具" class="headerlink" title="第二种窗体类型 Widget (组件/小工具)"></a>第二种窗体类型 Widget (组件/小工具)</h2><pre><code>属于的类:QWidget
 
 跟QMainwindow的区别:
 
@@ -606,9 +601,7 @@ QWidget 只有窗口 只有最小化 关闭 没有菜单栏 没有状态栏
 
 windowTitle 设置窗口的标题
 </code></pre>
-<hr>
-<p>按钮类别</p>
-<p>单项选择按钮 Radio Button</p>
+<h2 id="按钮类别"><a href="#按钮类别" class="headerlink" title="按钮类别"></a>按钮类别</h2><p>单项选择按钮 Radio Button</p>
 <p>属于的类 QRadioButton</p>
 <p>常用属性</p>
 <p>text 设置单选按钮显示的文字 string</p>
@@ -619,9 +612,7 @@ windowTitle 设置窗口的标题
 <p>主要的信号</p>
 <p>clicked 点击信号 用鼠标点击</p>
 <p>toggled 转换信号</p>
-<hr>
-<p>复习1</p>
-<pre><code>组件的名字:主窗口(QMainwindow)
+<h2 id="复习1"><a href="#复习1" class="headerlink" title="复习1"></a>复习1</h2><pre><code>组件的名字:主窗口(QMainwindow)
 类型:窗体
 所属类:QMainwindow
 常用的属性:windowTitle 窗口的标题
@@ -678,7 +669,6 @@ windowTitle 设置窗口的标题
             font 标签显示文字的字体
 常用的信号:没
 </code></pre>
-<hr>
 <p>弹窗组件</p>
 <p>QMessageBox</p>
 <p>使用方法:</p>
@@ -691,7 +681,6 @@ QMessageBox.critical 表示错误提示窗
 QMessageBox.waring 表示警告提示窗
 </code></pre>
 <p>对象名.exec() #把弹窗显示出来</p>
-<hr>
 <p>按钮组的使用<br>    按钮组 ButtonGroup<br>    所属类 QButtonGroup</p>
 <pre><code>常用属性
 exclusive 布尔型 是否互斥
@@ -721,7 +710,6 @@ step4 响应槽函数
         得到按钮组选中的按钮编号
         self.按钮组的名字.id(object)
 </code></pre>
-<hr>
 <p>多项选择按钮</p>
 <p>check box</p>
 <p>所属类 QCheckBox</p>
@@ -761,7 +749,6 @@ sing2=pyqtSignal(str,str,str) #同时传输三个字符串
 <p>定义一个传输对象的自定义信号</p>
 <pre><code>sing5=pyqtSignal(object)
 </code></pre>
-<hr>
 <p>多行文本输入框 QTextEdit (支持富文本编辑)</p>
 <p>常用属性</p>
 <pre><code>readonly 只读属性 布尔型
@@ -798,7 +785,6 @@ currentText()
 往下拉列表删除项目(只能删除一项)
 removeItem(int) int代表要删除的项目 从0开始
 </code></pre>
-<hr>
 <ul>
 <li><p>评论系统评论只需要填写昵称和邮箱即可发表评论，网址如果有也可以填写</p>
 </li>
