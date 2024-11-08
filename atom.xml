@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2024-11-08T13:57:31.278Z</updated>
+  <updated>2024-11-08T15:08:26.671Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FTTOS机场测评</title>
+    <link href="https://kexue-aihao.github.io/2024/11/08/fttos-ji-chang-ce-ping/"/>
+    <id>https://kexue-aihao.github.io/2024/11/08/fttos-ji-chang-ce-ping/</id>
+    <published>2024-11-08T14:57:54.000Z</published>
+    <updated>2024-11-08T15:08:26.671Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;GUID：83adfd64-65c7-4681-bba6-ab2eb69d8022&lt;br&gt;UTC 日期和时间: 2024-11-08T15:00:01Z&lt;br&gt;UNIX 时间戳：1731078053&lt;/p&gt;
+&lt;h1 id=&quot;机场基本信息&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="中转机场" scheme="https://kexue-aihao.github.io/categories/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/"/>
+    
+    
+    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
+    
+  </entry>
   
   <entry>
     <title>CloudServer机场测评</title>
@@ -505,31 +531,6 @@
     
     
     <category term="笔记" scheme="https://kexue-aihao.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>教育网ASN IP号段</title>
-    <link href="https://kexue-aihao.github.io/2024/11/07/jiao-yu-wang-asn-ip-hao-duan/"/>
-    <id>https://kexue-aihao.github.io/2024/11/07/jiao-yu-wang-asn-ip-hao-duan/</id>
-    <published>2024-11-07T03:50:58.000Z</published>
-    <updated>2024-11-07T06:03:51.910Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;GUID：dec12cbb-798c-4b5e-abae-faf4d52fe434&lt;br&gt;UTC 日期和时间: 2024-11-07T03:52:49Z&lt;br&gt;UNIX</summary>
-        
-      
-    
-    
-    
-    <category term="教育网" scheme="https://kexue-aihao.github.io/categories/%E6%95%99%E8%82%B2%E7%BD%91/"/>
-    
-    
-    <category term="科普" scheme="https://kexue-aihao.github.io/tags/%E7%A7%91%E6%99%AE/"/>
     
   </entry>
   
