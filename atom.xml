@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2024-11-12T02:57:00.108Z</updated>
+  <updated>2024-11-13T01:27:11.890Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>木酷云机场测评</title>
-    <link href="https://kexue-aihao.github.io/2024/11/12/mu-ku-yun-ji-chang-ce-ping/"/>
-    <id>https://kexue-aihao.github.io/2024/11/12/mu-ku-yun-ji-chang-ce-ping/</id>
-    <published>2024-11-12T08:36:56.000Z</published>
-    <updated>2024-11-12T02:57:00.108Z</updated>
+    <title>帕克云机场测评</title>
+    <link href="https://kexue-aihao.github.io/2024/11/13/pa-ke-yun-ji-chang-ce-ping/"/>
+    <id>https://kexue-aihao.github.io/2024/11/13/pa-ke-yun-ji-chang-ce-ping/</id>
+    <published>2024-11-13T08:37:23.000Z</published>
+    <updated>2024-11-13T01:27:11.890Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;GUID：56e74dbd-1736-46d2-a93b-977d684310ac&lt;br&gt;UTC 日期和时间: 2024-11-12T02:47:24Z&lt;br&gt;UNIX 时间戳：1731379651&lt;/p&gt;
+    <summary type="html">&lt;p&gt;GUID：403a7204-fa9a-4228-9295-492c63c50832&lt;br&gt;UTC 日期和时间: 2024-11-13T01:27:07Z&lt;br&gt;UNIX 时间戳：1731461230&lt;/p&gt;
 &lt;h1 id=&quot;机场基本信息&quot;&gt;&lt;a</summary>
         
       
@@ -36,6 +36,58 @@
     
     
     <category term="中转机场" scheme="https://kexue-aihao.github.io/categories/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/"/>
+    
+    
+    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>木酷云机场测评</title>
+    <link href="https://kexue-aihao.github.io/2024/11/13/mu-ku-yun-ji-chang-ce-ping/"/>
+    <id>https://kexue-aihao.github.io/2024/11/13/mu-ku-yun-ji-chang-ce-ping/</id>
+    <published>2024-11-13T08:36:56.000Z</published>
+    <updated>2024-11-13T01:25:08.598Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;GUID：5e2d35d2-d563-463d-bbb3-c447f73bef48&lt;br&gt;UTC 日期和时间: 2024-11-13T01:25:02Z&lt;br&gt;UNIX 时间戳：1731461107&lt;/p&gt;
+&lt;h1 id=&quot;机场基本信息&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="中转机场" scheme="https://kexue-aihao.github.io/categories/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/"/>
+    
+    
+    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>龙猫云机场测评</title>
+    <link href="https://kexue-aihao.github.io/2024/11/13/long-mao-yun-ji-chang-ce-ping/"/>
+    <id>https://kexue-aihao.github.io/2024/11/13/long-mao-yun-ji-chang-ce-ping/</id>
+    <published>2024-11-13T08:36:30.000Z</published>
+    <updated>2024-11-13T01:24:11.883Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;GUID：6bfc683b-74d7-4985-9e14-9c76fa0e6728&lt;br&gt;UTC 日期和时间: 2024-11-13T01:23:55Z&lt;br&gt;UNIX 时间戳：1731461040&lt;/p&gt;
+&lt;h1 id=&quot;机场基本信息&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="专线机场" scheme="https://kexue-aihao.github.io/categories/%E4%B8%93%E7%BA%BF%E6%9C%BA%E5%9C%BA/"/>
     
     
     <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
@@ -62,32 +114,6 @@
     
     
     <category term="直连机场" scheme="https://kexue-aihao.github.io/categories/%E7%9B%B4%E8%BF%9E%E6%9C%BA%E5%9C%BA/"/>
-    
-    
-    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>龙猫云机场测评</title>
-    <link href="https://kexue-aihao.github.io/2024/11/12/long-mao-yun-ji-chang-ce-ping/"/>
-    <id>https://kexue-aihao.github.io/2024/11/12/long-mao-yun-ji-chang-ce-ping/</id>
-    <published>2024-11-12T08:36:30.000Z</published>
-    <updated>2024-11-12T01:40:37.846Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;GUID：267c4403-5394-4865-847e-1ee3e081df81&lt;br&gt;UTC 日期和时间: 2024-11-11T14:01:14Z&lt;br&gt;UNIX 时间戳：1731333678&lt;/p&gt;
-&lt;h1 id=&quot;机场基本信息&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="专线机场" scheme="https://kexue-aihao.github.io/categories/%E4%B8%93%E7%BA%BF%E6%9C%BA%E5%9C%BA/"/>
     
     
     <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
@@ -399,29 +425,6 @@
     <id>https://kexue-aihao.github.io/2024/11/11/qu-jing-tong-you-ji-chang-ce-ping/</id>
     <published>2024-11-11T08:38:16.000Z</published>
     <updated>2024-11-11T08:38:16.535Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;GUID：&lt;br&gt;UTC 日期和时间:&lt;br&gt;UNIX 时间戳：&lt;/p&gt;
-&lt;h1 id=&quot;机场基本信息&quot;&gt;&lt;a href=&quot;#机场基本信息&quot; class=&quot;headerlink&quot; title=&quot;机场基本信息&quot;&gt;&lt;/a&gt;机场基本信息&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;✔表示是，否,</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>帕克云机场测评</title>
-    <link href="https://kexue-aihao.github.io/2024/11/11/pa-ke-yun-ji-chang-ce-ping/"/>
-    <id>https://kexue-aihao.github.io/2024/11/11/pa-ke-yun-ji-chang-ce-ping/</id>
-    <published>2024-11-11T08:37:23.000Z</published>
-    <updated>2024-11-11T08:37:23.110Z</updated>
     
     
       
