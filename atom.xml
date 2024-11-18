@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2024-11-18T12:41:06.011Z</updated>
+  <updated>2024-11-18T12:54:56.339Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Windows 7企业版程序功能列表分析</title>
+    <link href="https://kexue-aihao.github.io/2024/11/18/windows-7-qi-ye-ban-cheng-xu-gong-neng-lie-biao-fen-xi/"/>
+    <id>https://kexue-aihao.github.io/2024/11/18/windows-7-qi-ye-ban-cheng-xu-gong-neng-lie-biao-fen-xi/</id>
+    <published>2024-11-18T12:49:14.000Z</published>
+    <updated>2024-11-18T12:54:56.339Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;GUID：54918417-6675-45ae-82cd-c4727cec3570&lt;br&gt;UTC 日期和时间: 2024-11-18T12:50:05Z&lt;br&gt;UNIX</summary>
+        
+      
+    
+    
+    
+    
+    <category term="系统知识分享" scheme="https://kexue-aihao.github.io/tags/%E7%B3%BB%E7%BB%9F%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>Windows 10以及Windows 11 固化操作系统更新补丁命令</title>
@@ -496,32 +519,6 @@
     
     
     <category term="中转机场" scheme="https://kexue-aihao.github.io/categories/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/"/>
-    
-    
-    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>FATCAT Cloud机场测评</title>
-    <link href="https://kexue-aihao.github.io/2024/11/11/fatcat-cloud-ji-chang-ce-ping/"/>
-    <id>https://kexue-aihao.github.io/2024/11/11/fatcat-cloud-ji-chang-ce-ping/</id>
-    <published>2024-11-11T06:01:49.000Z</published>
-    <updated>2024-11-11T07:26:09.244Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;GUID：904fd570-02da-4214-95c6-9eea8d55414a&lt;br&gt;UTC 日期和时间: 2024-11-11T06:03:30Z&lt;br&gt;UNIX 时间戳：1731305018&lt;/p&gt;
-&lt;h1 id=&quot;机场基本信息&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="专线机场" scheme="https://kexue-aihao.github.io/categories/%E4%B8%93%E7%BA%BF%E6%9C%BA%E5%9C%BA/"/>
     
     
     <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
