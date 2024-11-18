@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Windows 10以及Windows 11 固化操作系统更新补丁命令</title>
+      <link href="/2024/11/18/windows-10-yi-ji-windows-11-gu-hua-cao-zuo-xi-tong-geng-xin-bu-ding-ming-ling/"/>
+      <url>/2024/11/18/windows-10-yi-ji-windows-11-gu-hua-cao-zuo-xi-tong-geng-xin-bu-ding-ming-ling/</url>
+      
+        <content type="html"><![CDATA[<p>GUID：954436e8-022d-4c67-b88a-4fb9fd689515<br>UTC 日期和时间: 2024-11-18T12:37:51Z<br>UNIX 时间戳：1731933475</p><ul><li>本站点所分享的有关于Windows方面的知识，如有不正确的地方欢迎在评论区指正，并提出依据，欢迎各位转载文章</li></ul><p>离线固化操作系统补丁命令</p><blockquote><p>Dism.exe /image:path /Cleanup-Image /StartComponentCleanup /ResetBase</p></blockquote><p>在线固化操作系统补丁命令</p><blockquote><p>Dism.exe /online /Cleanup-Image /StartComponentCleanup /ResetBase</p></blockquote><ul><li><p>评论系统评论只需要填写昵称和邮箱即可发表评论，网址如果有也可以填写</p></li><li><p>任何人评论都要对自己的言论负责，评论区不是法外之地</p></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 系统知识分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一元机场退款教程</title>
       <link href="/2024/11/14/yi-yuan-ji-chang-tui-kuan-jiao-cheng/"/>
       <url>/2024/11/14/yi-yuan-ji-chang-tui-kuan-jiao-cheng/</url>
