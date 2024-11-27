@@ -4,6 +4,38 @@
   
     
     <entry>
+      <title>Assenbly文件夹是干什么用的?</title>
+      <link href="/2024/11/28/assenbly-wen-jian-jia-shi-gan-shi-me-yong-de/"/>
+      <url>/2024/11/28/assenbly-wen-jian-jia-shi-gan-shi-me-yong-de/</url>
+      
+        <content type="html"><![CDATA[<p>GUID：ea3fdcc5-a3cd-4370-b2b5-84f649cd8d61<br>UTC 日期和时间: 2024-11-27T16:05:50Z<br>UNIX 时间戳：1732723554</p><ul><li>本站点所分享的有关于Windows方面的知识，如有不正确的地方欢迎在评论区指正，并提出依据，欢迎各位转载文章</li></ul><ol><li><strong>基本概述</strong><ul><li>在Windows系统中，“C:\Windows\assembly”文件夹存储的是程序集相关文件。程序集是.NET Framework中的一个基本部署单元，它包含了代码和元数据。</li></ul></li><li><strong>详细内容</strong><ul><li><strong>.NET程序集</strong>：这里存储了全局程序集缓存（GAC）中的文件。GAC是一个计算机范围内的代码缓存，它存储了多个应用程序都可以共享的.NET程序集。例如，许多基于.NET开发的软件可能会使用到一些相同的基础类库，如System.Data.dll（用于数据库访问相关功能）等，这些公共的程序集就可能被存储在GAC中。</li><li><strong>强名称程序集</strong>：GAC中的程序集通常是强名称程序集。强名称是由程序集的标识（包括简单文本名称、版本号、文化信息和公钥标记）组成的。这有助于确保程序集的唯一性、完整性和安全性，防止程序集被篡改。</li><li><strong>资源文件和类型信息</strong>：除了程序集的二进制文件外，这个文件夹还可能包含与程序集相关的资源文件和类型信息。资源文件可以是图像、字符串等应用程序可能会用到的资源。类型信息则有助于在运行时识别程序集中定义的各种类型（如类、接口等）。</li></ul></li><li><strong>系统使用和管理方面</strong><ul><li>一般情况下，用户很少需要直接操作这个文件夹中的文件。这些文件主要是由系统和.NET应用程序在运行时自动引用和管理的。如果手动修改或删除其中的某些关键文件，可能会导致依赖这些程序集的应用程序出现运行错误，如无法启动或出现功能异常等情况。在安装、更新或卸载基于.NET的软件时，相关的程序集会在这个文件夹中被正确地添加、更新或删除，这一过程通常是由Windows Installer或其他安装工具来完成的。</li></ul></li></ol><ul><li><p>评论系统评论只需要填写昵称和邮箱即可发表评论，网址如果有也可以填写</p></li><li><p>任何人评论都要对自己的言论负责，评论区不是法外之地</p></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 系统知识分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Windows 7 KB3125574方案补丁归类</title>
+      <link href="/2024/11/27/windows-7-kb3125574-fang-an-bu-ding-gui-lei/"/>
+      <url>/2024/11/27/windows-7-kb3125574-fang-an-bu-ding-gui-lei/</url>
+      
+        <content type="html"><![CDATA[<p>GUID：<br>UTC 日期和时间:<br>UNIX 时间戳：</p><table><thead><tr><th>操作系统</th><th>操作系统位数</th><th>操作系统版本</th><th>补丁名称</th><th>补丁类型</th><th>补丁作用</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody></table><ul><li><p>评论系统评论只需要填写昵称和邮箱即可发表评论，网址如果有也可以填写</p></li><li><p>任何人评论都要对自己的言论负责，评论区不是法外之地</p></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2024年11月17日至2024年11月22日晚的那些事</title>
       <link href="/2024/11/27/2024-nian-11-yue-17-ri-zhi-2024-nian-11-yue-22-ri-wan-de-na-xie-shi/"/>
       <url>/2024/11/27/2024-nian-11-yue-17-ri-zhi-2024-nian-11-yue-22-ri-wan-de-na-xie-shi/</url>
