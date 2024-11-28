@@ -4,16 +4,9 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="Windows 7 KB3125574方案补丁归类, AHRT的藏经阁">
+    <meta name="keywords" content="Windows 7 KB3125574 方案补丁集成方法, AHRT的藏经阁">
     <meta name="description" content="GUID：c3f6d46c-6f32-4943-adfd-e861ded397fcUTC 日期和时间: 2024-11-28T05:56:33ZUNIX 时间戳：1732773397
-
-
-
-操作系统
-操作系统位数
-操作系统版本
-补丁名称
-补">
+1.先集成Internet Explorer 11 按照">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -25,7 +18,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>Windows 7 KB3125574方案补丁归类 | AHRTのblog</title>
+    <title>Windows 7 KB3125574 方案补丁集成方法 | AHRTのblog</title>
     <link rel="icon" type="image/png" href="/favicon.png">
     
 
@@ -343,12 +336,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/16.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/21.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">Windows 7 KB3125574方案补丁归类</h1>
+                    <h1 class="description center-align post-title">Windows 7 KB3125574 方案补丁集成方法</h1>
                 </div>
             </div>
         </div>
@@ -395,14 +388,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    886
+                    266
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    3 分
+                    1 分
                 </div>
                 
 
@@ -431,197 +424,70 @@
         <div class="card-content article-card-content">
             <div id="articleContent">
                 <p>GUID：c3f6d46c-6f32-4943-adfd-e861ded397fc<br>UTC 日期和时间: 2024-11-28T05:56:33Z<br>UNIX 时间戳：1732773397</p>
+<p>1.先集成Internet Explorer 11 按照我写的顺序去集成</p>
 <table>
 <thead>
 <tr>
 <th>操作系统</th>
 <th>操作系统位数</th>
-<th>操作系统版本</th>
 <th>补丁名称</th>
 <th>补丁类型</th>
 <th>补丁作用</th>
-<th>先决条件</th>
 </tr>
 </thead>
 <tbody><tr>
 <td>Windows 7</td>
 <td>x86</td>
-<td>旗舰版</td>
-<td>KB3191566</td>
-<td>Windows Management Framework 5.1 更新</td>
-<td>集成WMF5.1</td>
-<td>.NET Framework 4.5.2</td>
+<td>KB2670838</td>
+<td>General</td>
+<td>先决条件</td>
+</tr>
+</tbody></table>
+<ul>
+<li><p>需要集成 Internet Explorer 11 第一个要集成补丁</p>
+</li>
+<li><p>在集成完所有功能性补丁后，再集成 KB3125574 补丁，如果再集成之前已安装该补丁，则需要将其重新集成</p>
+</li>
+<li><p>在集成完 KB3125574 补丁后，按照如下表格进行最后的集成</p>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>操作系统</th>
+<th>操作系统位数</th>
+<th>补丁名称</th>
+<th>补丁类型</th>
+<th>补丁作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2841134</td>
+<td>Additional_IE11</td>
+<td>关键性程序包</td>
 </tr>
 <tr>
 <td>Windows 7</td>
 <td>x86</td>
-<td>旗舰版</td>
-<td>KB4503575</td>
-<td>.NET Framework 4.8 的安全更新</td>
-<td>-</td>
-<td>-</td>
+<td>KB2849696</td>
+<td>Additional_IE11</td>
+<td>关键性程序包</td>
 </tr>
 <tr>
 <td>Windows 7</td>
 <td>x86</td>
-<td>旗舰版</td>
-<td>KB4532941</td>
-<td>.NET Framework 4.8的安全和质量汇总</td>
-<td>-</td>
-<td>-</td>
+<td>KB2849697</td>
+<td>Additional_IE11</td>
+<td>关键性程序包</td>
 </tr>
 <tr>
 <td>Windows 7</td>
 <td>x86</td>
-<td>旗舰版</td>
-<td>KB5044027</td>
-<td>.NET Framework 4.8 安全和质量汇总</td>
-<td>-</td>
-<td>.NET Framework 4.8  SSU  KB4490628  SHA-2 KB4474419  ESU许可准备包 KB5016892  SSU KB5017397  ESU MAK 加载项密钥</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB5044356</td>
-<td>2024 年 10 月安全月度质量汇总</td>
-<td>-</td>
-<td>.NET Framework 4.8  SSU  KB4490628  SHA-2 KB4474419  ESU许可准备包 KB5016892  SSU KB5017397  ESU MAK 加载项密钥</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB5044011</td>
-<td>.NET Framework 3.5.1 的 2024 年 10 月安全和质量汇总更新</td>
-<td>-</td>
-<td>.NET Framework 4.8  SSU  KB4490628  SHA-2 KB4474419  ESU许可准备包 KB5016892  SSU KB5017397  ESU MAK 加载项密钥</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB5039339</td>
-<td>服务堆栈更新</td>
-<td>为后续的补丁安装提供支持</td>
-<td>SHA-2代码签名支持  拓展安全更新授权</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB4575903</td>
-<td>2020 年 7 月的扩展安全更新许可准备包</td>
-<td>作为扩展安全更新的许可准备包，它是获取后续扩展安全更新的前提条件，能够为系统提供安全更新的支持，帮助用户在系统生命周期结束后，仍能获得一定时间的安全防护，以应对可能出现的安全漏洞和风险.</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB4490628</td>
-<td>2019 年 4 月面向 Win7 系统发布的服务堆栈更新</td>
-<td>SHA-2补丁的先决条件</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB4474419</td>
-<td>2019 年发布的安全更新</td>
-<td>为SHA-2数字签名提供支持</td>
-<td>KB4490628</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB3184143</td>
-<td>2016 年 9 月 19 日发布的针对 Windows 7 和 Windows 8.1 的更新</td>
-<td>主要作用是彻底移除用于免费升级 Windows 10 的 GWX 升级程序。在 Windows 10 发布后，微软曾通过 GWX 升级程序推动符合条件的 Windows 7 和 Windows 8.1 用户升级至 Windows 10，但该程序会不断弹窗提示用户升级，引起了很多用户的反感。KB3184143 的发布解决了这一问题  替换相关补丁功能：KB3184143 会替换掉以下补丁的内容，使这些补丁即使安装也无法使用其对应的功能，故用户不必再尝试下载它们的独立更新包5 ：  KB3035583：用于向用户的计算机安装 Get Windows 10 应用程序。 KB3064683：用于修改 Windows 8.1 OOBE 以保留 Windows 10。 KB3072318：用于修改 Windows 8.1 OOBE 以升级至 Windows 10。 KB3090045：用于 Windows 7 和 Windows 8.1 中保留设备的更新。 KB3123862：更新了一些功能以便于 Windows 7 和 Windows 8.1 升级至 Windows 10。 KB3173040：用于弹窗告知用户免费升级 Windows 10 的活动结束通知。 KB3146449：更新了 IE11 浏览器以便于升级至 Windows 10 。</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB3179573</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB3172605</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>Windows 7</td>
-<td>x86</td>
-<td>旗舰版</td>
-<td>KB</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td>LanuagePack</td>
+<td>Additional_IE11</td>
+<td>Internet Explorer 11 语言包</td>
 </tr>
 </tbody></table>
 <ul>
@@ -1279,7 +1145,7 @@
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">66.9k</span>
+                        class="white-color">66.3k</span>
             
             
             
