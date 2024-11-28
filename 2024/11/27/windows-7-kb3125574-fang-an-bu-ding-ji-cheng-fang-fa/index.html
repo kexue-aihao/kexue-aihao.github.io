@@ -6,7 +6,8 @@
     <meta charset="utf-8">
     <meta name="keywords" content="Windows 7 KB3125574 方案补丁集成方法, AHRT的藏经阁">
     <meta name="description" content="GUID：c3f6d46c-6f32-4943-adfd-e861ded397fcUTC 日期和时间: 2024-11-28T05:56:33ZUNIX 时间戳：1732773397
-1.先集成Internet Explorer 11 按照">
+照我写的顺序去集成
+1.集成Internet Explo">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -388,14 +389,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    266
+                    1.2k
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    1 分
+                    4 分
                 </div>
                 
 
@@ -424,7 +425,8 @@
         <div class="card-content article-card-content">
             <div id="articleContent">
                 <p>GUID：c3f6d46c-6f32-4943-adfd-e861ded397fc<br>UTC 日期和时间: 2024-11-28T05:56:33Z<br>UNIX 时间戳：1732773397</p>
-<p>1.先集成Internet Explorer 11 按照我写的顺序去集成</p>
+<p><em>照我写的顺序去集成</em></p>
+<p>1.集成Internet Explorer 11 </p>
 <table>
 <thead>
 <tr>
@@ -488,6 +490,466 @@
 <td>LanuagePack</td>
 <td>Additional_IE11</td>
 <td>Internet Explorer 11 语言包</td>
+</tr>
+</tbody></table>
+<p>2.集成 RDP 功能组件</p>
+<table>
+<thead>
+<tr>
+<th>操作系统</th>
+<th>操作系统位数</th>
+<th>补丁名称</th>
+<th>补丁类型</th>
+<th>补丁作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2574819</td>
+<td>Additional_RDP</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2592687</td>
+<td>Additional_RDP</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2830477</td>
+<td>Additional_RDP</td>
+<td>关键性程序包</td>
+</tr>
+</tbody></table>
+<ul>
+<li><p>需要集成 RDP 三个需要集成补丁</p>
+</li>
+<li><p>在集成完所有功能性补丁后，再集成 KB3125574 补丁，如果再集成之前已安装该补丁，则需要将其重新集成</p>
+</li>
+</ul>
+<p>3.集成 AD_LDS 功能组件</p>
+<table>
+<thead>
+<tr>
+<th>操作系统</th>
+<th>操作系统位数</th>
+<th>补丁名称</th>
+<th>补丁类型</th>
+<th>补丁作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB975541</td>
+<td>Extra_AD_LDS</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2462137</td>
+<td>Extra_AD_LDS_Updates</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2539513</td>
+<td>Extra_AD_LDS_Updates</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2589154</td>
+<td>Extra_AD_LDS_Updates</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2647644</td>
+<td>Extra_AD_LDS_Updates</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2898997</td>
+<td>Extra_AD_LDS_Updates</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3012660</td>
+<td>Extra_AD_LDS_Updates</td>
+<td>关键性程序包</td>
+</tr>
+</tbody></table>
+<p>4.集成 RSAT 功能组件</p>
+<table>
+<thead>
+<tr>
+<th>操作系统</th>
+<th>操作系统位数</th>
+<th>补丁名称</th>
+<th>补丁类型</th>
+<th>补丁作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB958830</td>
+<td>Extra_RSAT</td>
+<td>关键性程序包</td>
+</tr>
+</tbody></table>
+<p>5.集成 VirtualPC 功能组件</p>
+<table>
+<thead>
+<tr>
+<th>操作系统</th>
+<th>操作系统位数</th>
+<th>补丁名称</th>
+<th>补丁类型</th>
+<th>补丁作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB958559</td>
+<td>Extra_VirtualPC</td>
+<td>关键性程序包</td>
+</tr>
+</tbody></table>
+<p>6.集成 General 更新</p>
+<p><em>此处排除三个General补丁不在本顺序集成之内，后面另作排序</em></p>
+<table>
+<thead>
+<tr>
+<th>操作系统</th>
+<th>操作系统位数</th>
+<th>补丁名称</th>
+<th>补丁类型</th>
+<th>补丁作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB917607</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2670838</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2685811</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2685813</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2750841</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2818604</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3046480</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3064209</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3161102</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3179573</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3184143</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB4409628</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>HyperVlntegrationServices</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+</tbody></table>
+<p><em>此处为排除的三个补丁安装顺序</em></p>
+<table>
+<thead>
+<tr>
+<th>操作系统</th>
+<th>操作系统位数</th>
+<th>补丁名称</th>
+<th>补丁类型</th>
+<th>补丁作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3172605</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3020369</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3125574</td>
+<td>General</td>
+<td>关键性程序包</td>
+</tr>
+</tbody></table>
+<p>7.集成 Hotfix 更新</p>
+<table>
+<thead>
+<tr>
+<th>操作系统</th>
+<th>操作系统位数</th>
+<th>补丁名称</th>
+<th>补丁类型</th>
+<th>补丁作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2695321</td>
+<td>Hotfix</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2727994</td>
+<td>Hotfix</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2728738</td>
+<td>Hotfix</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2752259</td>
+<td>Hotfix</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2891144</td>
+<td>Hotfix</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2907020</td>
+<td>Hotfix</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2918833</td>
+<td>Hotfix</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2923766</td>
+<td>Hotfix</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2925489</td>
+<td>Hotfix</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2990184</td>
+<td>Hotfix</td>
+<td>关键性程序包</td>
+</tr>
+</tbody></table>
+<p>8.集成 Security 更新</p>
+<table>
+<thead>
+<tr>
+<th>操作系统</th>
+<th>操作系统位数</th>
+<th>补丁名称</th>
+<th>补丁类型</th>
+<th>补丁作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2898851</td>
+<td>Security</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB2900986</td>
+<td>Security</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3059317</td>
+<td>Security</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3156016</td>
+<td>Security</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3159398</td>
+<td>Security</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB3161949</td>
+<td>Security</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB4474419</td>
+<td>Security</td>
+<td>关键性程序包</td>
+</tr>
+</tbody></table>
+<p>9.集成 BypassESU_v13</p>
+<p>10.集成 ESU 更新</p>
+<p><em>先集成上面两个补丁，然后剩下的两个补丁，集成完一个再集成下一个</em></p>
+<table>
+<thead>
+<tr>
+<th>操作系统</th>
+<th>操作系统位数</th>
+<th>补丁名称</th>
+<th>补丁类型</th>
+<th>补丁作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB4575903</td>
+<td>Security_ESU</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB5039339</td>
+<td>Security_ESU</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB5044011</td>
+<td>Security_ESU</td>
+<td>关键性程序包</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>x86</td>
+<td>KB5044356</td>
+<td>Security_ESU</td>
+<td>关键性程序包</td>
 </tr>
 </tbody></table>
 <ul>
@@ -1145,7 +1607,7 @@
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">66.3k</span>
+                        class="white-color">67.2k</span>
             
             
             
