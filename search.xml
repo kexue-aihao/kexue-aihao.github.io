@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>Panther文件夹是干什么用的?</title>
+      <link href="/2024/11/28/panther-wen-jian-jia-shi-gan-shi-me-yong-de/"/>
+      <url>/2024/11/28/panther-wen-jian-jia-shi-gan-shi-me-yong-de/</url>
+      
+        <content type="html"><![CDATA[<p>GUID：95b2470a-dbc5-44d3-8bf6-0816a6911fd2<br>UTC 日期和时间: 2024-11-28T01:20:30Z<br>UNIX 时间戳：1732756835</p><ul><li>本站点所分享的有关于Windows方面的知识，如有不正确的地方欢迎在评论区指正，并提出依据，欢迎各位转载文章</li></ul><p>C:\Windows\Panther路径下存储的文件主要是与Windows系统安装、升级、配置等过程相关的日志文件和临时文件，具体如下 ：</p><ul><li><p><strong>日志文件</strong>：</p><ul><li><strong>cbs.log</strong>：这是基于组件的服务的日志文件，记录了与Windows组件相关的安装、更新和维护操作的详细信息。</li><li><strong>cbs_intl.log</strong>：是基于组件的服务的国际化日志文件，记录了与Windows组件相关操作的国际化信息。</li><li><strong>setupact.log和setuperr.log</strong>：为系统安装过程的日志文件，分别记录了安装过程中的活动和出现的错误信息，有助于查找安装失败的原因。</li><li><strong>setup.etl</strong>：Windows安装过程的事件跟踪日志文件，详细记录了安装过程中的各种事件和操作。</li><li><strong>diagerr.xml和diagwrn.xml</strong>：包含了诊断工具可能生成的错误和警告信息，以XML格式呈现，方便进行错误分析。</li><li><strong>DDACLSys.log</strong>：设备驱动程序访问控制的日志文件，记录了与设备驱动程序访问控制相关的信息，可用于排查驱动安装和访问问题。</li></ul></li><li><p><strong>配置文件和临时文件</strong>：</p><ul><li><strong>Contents0.dir和Contents1.dir</strong>：包含了用于安装Windows组件和更新的文件的目录结构信息，辅助系统在安装和更新过程中准确找到所需文件。</li><li><strong>MainQueueOnline0.que和MainQueueOnline1.que</strong>：是Windows更新服务的主队列文件，用于存储待处理的更新任务，系统会根据此队列依次执行更新操作。</li><li><strong>setupinfo</strong>：该文件夹可能包含了与系统安装相关的信息，如配置文件或设置文件，为系统安装提供必要的参数和设置。</li><li><strong>UnattendGC</strong>：此文件夹可能包含无人值守安装配置文件，用于自动化Windows安装过程，实现无需人工干预的系统安装。</li></ul></li><li><p>评论系统评论只需要填写昵称和邮箱即可发表评论，网址如果有也可以填写</p></li><li><p>任何人评论都要对自己的言论负责，评论区不是法外之地</p></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 系统知识分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Media文件夹是干什么用的?</title>
+      <link href="/2024/11/28/media-wen-jian-jia-shi-gan-shi-me-yong-de/"/>
+      <url>/2024/11/28/media-wen-jian-jia-shi-gan-shi-me-yong-de/</url>
+      
+        <content type="html"><![CDATA[<p>GUID：3827c1ef-4685-498f-b34f-2079bede5240<br>UTC 日期和时间: 2024-11-28T01:17:14Z<br>UNIX 时间戳：1732756638</p><ul><li>本站点所分享的有关于Windows方面的知识，如有不正确的地方欢迎在评论区指正，并提出依据，欢迎各位转载文章</li></ul><p>C:\Windows\Media 路径下存储的文件主要有以下几类：</p><ul><li><p><strong>系统声音文件</strong>：包含了Windows系统的各种提示音、警告音、启动音和关机音等，比如 Windows 7 中的“Windows 登录音.wav”“Windows 注销音.wav”“Windows 错误提示音.wav”等，在Windows 10及11中也有类似的声音文件，用于不同的系统事件提醒，用户可以通过系统设置中的“声音”选项来更改这些声音.</p></li><li><p><strong>音频主题文件</strong>： 有一些音频主题相关的文件和文件夹，用于定义不同的声音主题。这些主题可以改变系统声音的整体风格，使声音更加个性化 .</p></li><li><p><strong>图像文件</strong>：存储着与系统图标、主题相关的图像文件，如电脑品牌Logo的图片文件等。这些图像文件可用于系统界面的显示，为系统提供各种图标和视觉元素，以支持不同的主题和界面风格.</p></li><li><p><strong>示例媒体文件</strong>：可能包含一些微软提供的示例音频或视频文件，用于展示系统的多媒体功能等，但这类文件相对较少，具体取决于Windows版本和系统安装时的配置 。</p></li><li><p>评论系统评论只需要填写昵称和邮箱即可发表评论，网址如果有也可以填写</p></li><li><p>任何人评论都要对自己的言论负责，评论区不是法外之地</p></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 系统知识分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Assenbly文件夹是干什么用的?</title>
       <link href="/2024/11/28/assenbly-wen-jian-jia-shi-gan-shi-me-yong-de/"/>
       <url>/2024/11/28/assenbly-wen-jian-jia-shi-gan-shi-me-yong-de/</url>
