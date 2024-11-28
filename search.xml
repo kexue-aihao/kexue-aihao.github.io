@@ -62,8 +62,8 @@
     
     <entry>
       <title>Windows 7 KB3125574 方案补丁集成方法</title>
-      <link href="/2024/11/27/windows-7-kb3125574-fang-an-bu-ding-gui-lei/"/>
-      <url>/2024/11/27/windows-7-kb3125574-fang-an-bu-ding-gui-lei/</url>
+      <link href="/2024/11/27/windows-7-kb3125574-fang-an-bu-ding-ji-cheng-fang-fa/"/>
+      <url>/2024/11/27/windows-7-kb3125574-fang-an-bu-ding-ji-cheng-fang-fa/</url>
       
         <content type="html"><![CDATA[<p>GUID：c3f6d46c-6f32-4943-adfd-e861ded397fc<br>UTC 日期和时间: 2024-11-28T05:56:33Z<br>UNIX 时间戳：1732773397</p><p>1.先集成Internet Explorer 11 按照我写的顺序去集成</p><table><thead><tr><th>操作系统</th><th>操作系统位数</th><th>补丁名称</th><th>补丁类型</th><th>补丁作用</th></tr></thead><tbody><tr><td>Windows 7</td><td>x86</td><td>KB2670838</td><td>General</td><td>先决条件</td></tr></tbody></table><ul><li><p>需要集成 Internet Explorer 11 第一个要集成补丁</p></li><li><p>在集成完所有功能性补丁后，再集成 KB3125574 补丁，如果再集成之前已安装该补丁，则需要将其重新集成</p></li><li><p>在集成完 KB3125574 补丁后，按照如下表格进行最后的集成</p></li></ul><table><thead><tr><th>操作系统</th><th>操作系统位数</th><th>补丁名称</th><th>补丁类型</th><th>补丁作用</th></tr></thead><tbody><tr><td>Windows 7</td><td>x86</td><td>KB2841134</td><td>Additional_IE11</td><td>关键性程序包</td></tr><tr><td>Windows 7</td><td>x86</td><td>KB2849696</td><td>Additional_IE11</td><td>关键性程序包</td></tr><tr><td>Windows 7</td><td>x86</td><td>KB2849697</td><td>Additional_IE11</td><td>关键性程序包</td></tr><tr><td>Windows 7</td><td>x86</td><td>LanuagePack</td><td>Additional_IE11</td><td>Internet Explorer 11 语言包</td></tr></tbody></table><ul><li><p>评论系统评论只需要填写昵称和邮箱即可发表评论，网址如果有也可以填写</p></li><li><p>任何人评论都要对自己的言论负责，评论区不是法外之地</p></li></ul>]]></content>
       
