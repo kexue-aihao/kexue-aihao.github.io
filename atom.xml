@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2024-12-04T07:43:26.161Z</updated>
+  <updated>2024-12-04T07:58:17.247Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>审核策略详细说明</title>
+    <link href="https://kexue-aihao.github.io/2024/12/04/shen-he-ce-lue-xiang-xi-shuo-ming/"/>
+    <id>https://kexue-aihao.github.io/2024/12/04/shen-he-ce-lue-xiang-xi-shuo-ming/</id>
+    <published>2024-12-04T07:52:11.000Z</published>
+    <updated>2024-12-04T07:58:17.247Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;GUID：06ac6370-f55d-4986-b3a3-87824d479345&lt;br&gt;UTC 日期和时间: 2024-12-04T07:53:42Z&lt;br&gt;UNIX</summary>
+        
+      
+    
+    
+    
+    
+    <category term="系统知识分享" scheme="https://kexue-aihao.github.io/tags/%E7%B3%BB%E7%BB%9F%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>账户锁定策略相关详细说明</title>
@@ -451,30 +474,6 @@
         
         
     <summary type="html">&lt;p&gt;GUID：2cf0ce11-3954-4c06-99e7-4d3c681b8fda&lt;br&gt;UTC 日期和时间: 2024-11-25T07:53:56Z&lt;br&gt;UNIX</summary>
-        
-      
-    
-    
-    
-    
-    <category term="Telegram知识库" scheme="https://kexue-aihao.github.io/tags/Telegram%E7%9F%A5%E8%AF%86%E5%BA%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第三方Telegram APP</title>
-    <link href="https://kexue-aihao.github.io/2024/11/25/di-san-fang-telegram-app/"/>
-    <id>https://kexue-aihao.github.io/2024/11/25/di-san-fang-telegram-app/</id>
-    <published>2024-11-25T07:51:40.000Z</published>
-    <updated>2024-11-25T07:52:51.716Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;GUID：9bdce63a-9ccf-4a5a-87f6-6b37f436ebbf&lt;br&gt;UTC 日期和时间: 2024-11-25T07:52:33Z&lt;br&gt;UNIX 时间戳：1732521158&lt;/p&gt;
-&lt;p&gt;第三方Telegram</summary>
         
       
     
