@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2024-12-06T06:53:18.472Z</updated>
+  <updated>2024-12-06T13:15:58.394Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何提高系统的安全性-交互式登录</title>
+    <link href="https://kexue-aihao.github.io/2024/12/06/ru-he-ti-gao-xi-tong-de-an-quan-xing-jiao-hu-shi-deng-lu/"/>
+    <id>https://kexue-aihao.github.io/2024/12/06/ru-he-ti-gao-xi-tong-de-an-quan-xing-jiao-hu-shi-deng-lu/</id>
+    <published>2024-12-06T07:56:32.000Z</published>
+    <updated>2024-12-06T13:15:58.394Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;GUID：730fbcb8-5d4b-4075-8526-74e059f90cef&lt;br&gt;UTC 日期和时间: 2024-12-06T13:14:17Z&lt;br&gt;UNIX</summary>
+        
+      
+    
+    
+    
+    
+    <category term="系统知识分享" scheme="https://kexue-aihao.github.io/tags/%E7%B3%BB%E7%BB%9F%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>创建符号链接帮助说明</title>
@@ -453,30 +476,6 @@
     
     
     <category term="购前须知" scheme="https://kexue-aihao.github.io/tags/%E8%B4%AD%E5%89%8D%E9%A1%BB%E7%9F%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Telegram知识库索引</title>
-    <link href="https://kexue-aihao.github.io/2024/11/25/telegram-zhi-shi-ku-suo-yin/"/>
-    <id>https://kexue-aihao.github.io/2024/11/25/telegram-zhi-shi-ku-suo-yin/</id>
-    <published>2024-11-25T08:05:24.000Z</published>
-    <updated>2024-11-25T08:19:25.102Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;GUID：898d27a9-3ea7-4212-9cd5-2af4a52a096e&lt;br&gt;UTC 日期和时间: 2024-11-25T08:06:02Z&lt;br&gt;UNIX 时间戳：1732521966&lt;/p&gt;
-&lt;h1 id=&quot;电报号知识库索引&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    
-    <category term="Telegram知识库" scheme="https://kexue-aihao.github.io/tags/Telegram%E7%9F%A5%E8%AF%86%E5%BA%93/"/>
     
   </entry>
   
