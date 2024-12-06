@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>创建符号链接帮助说明</title>
+      <link href="/2024/12/06/chuang-jian-fu-hao-lian-jie-bang-zhu-shuo-ming/"/>
+      <url>/2024/12/06/chuang-jian-fu-hao-lian-jie-bang-zhu-shuo-ming/</url>
+      
+        <content type="html"><![CDATA[<p>GUID：feaff604-031a-4065-93ac-9c29b9ee8810<br>UTC 日期和时间: 2024-12-06T06:53:14Z<br>UNIX 时间戳：1733467997</p><ul><li>本站点所分享的有关于Windows方面的知识，如有不正确的地方欢迎在评论区指正，并提出依据，欢迎各位转载文章</li></ul><p>创建符号链接</p><p>此权限确定用户是否可以从登录的计算机创建符号链接。</p><p>默认值: Administrator</p><p>警告: 此权限应当仅授予受信任用户。符号链接可能暴露应用程序在设计上无法进行处理的安全漏洞。</p><p>注意<br>此设置可以与符号链接文件系统设置一起使用，后者可使用命令行实用程序进行操作，以便控制计算机上允许的各种符号链接。有关 fsutil 和符号链接的详细信息，请在命令行中键入”fsutil behavior set symlinkevalution /?”。</p><ul><li><p>评论系统评论只需要填写昵称和邮箱即可发表评论，网址如果有也可以填写</p></li><li><p>任何人评论都要对自己的言论负责，评论区不是法外之地</p></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 系统知识分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>为什么我要建博客</title>
       <link href="/2024/12/06/wei-shi-me-wo-yao-jian-bo-ke/"/>
       <url>/2024/12/06/wei-shi-me-wo-yao-jian-bo-ke/</url>
