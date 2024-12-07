@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>高级 Windows 防火墙 - 本地 相关知识</title>
+      <link href="/2024/12/07/gao-ji-windows-fang-huo-qiang-ben-di-xiang-guan-zhi-shi/"/>
+      <url>/2024/12/07/gao-ji-windows-fang-huo-qiang-ben-di-xiang-guan-zhi-shi/</url>
+      
+        <content type="html"><![CDATA[<p>GUID：11041b1e-734c-4381-b400-08f0d91093f1<br>UTC 日期和时间: 2024-12-07 14:16:22<br>UNIX 时间戳：1733552187</p><ul><li>本站点所分享的有关于Windows方面的知识，如有不正确的地方欢迎在评论区指正，并提出依据，欢迎各位转载文章</li></ul><center><h1>Windows自带的防火墙，知多少？</h1></center><h2><p>什么是入站规则？</p></h2><details><summary>点击此处展开收缩内容</summary><p>入站规则明确允许或明确阻止符合规则中条件的入站网络流量。例如，您可以配置一条规则，明确允许由 IPsec 保护的远程桌面流量通过防火墙，但如果该流量未受 IPsec 保护，则阻止该流量。首次安装 Windows 时，所有未经请求的入站流量都将被阻止。要允许某种类型的未经请求的入站流量，您必须创建一条描述该流量的入站规则。例如，如果您要运行 Web 服务器，则必须创建一条规则，允许 TCP 端口 80 上的未经请求的入站网络流量。</p><p>您还可以配置高级安全 Windows 防火墙在没有适用入站规则时采取的默认操作，即允许还是阻止连接。</p></details><p></p><h2><p>什么是出站规则？</p></h2><details><summary>点击此处展开收缩内容</summary><p>出站规则明确允许或明确阻止来自符合规则中条件的计算机的网络流量。例如，您可以配置一条规则，以明确阻止通过防火墙到计算机（按 IP 地址）的出站流量，但允许其他计算机的相同流量。由于默认情况下允许出站流量，因此您通常使用出站规则来阻止您不想要的网络流量。</p><p>您还可以配置高级安全 Windows 防火墙采取的默认操作，即在没有出站规则适用时允许还是阻止出站连接。</p></details><p></p><ul><li><p>评论系统评论只需要填写昵称和邮箱即可发表评论，网址如果有也可以填写</p></li><li><p>任何人评论都要对自己的言论负责，评论区不是法外之地</p></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 系统知识分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何阻止用户在连接共享打印机时安装打印机驱动程序</title>
       <link href="/2024/12/07/ru-he-zu-zhi-yong-hu-zai-lian-jie-gong-xiang-da-yin-ji-shi-an-zhuang-da-yin-ji-qu-dong-cheng-xu/"/>
       <url>/2024/12/07/ru-he-zu-zhi-yong-hu-zai-lian-jie-gong-xiang-da-yin-ji-shi-an-zhuang-da-yin-ji-qu-dong-cheng-xu/</url>
