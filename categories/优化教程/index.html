@@ -659,30 +659,43 @@
                         var t1 = Date.UTC(startYear, startMonth, startDate, startHour, startMinute, startSecond);
                         var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
                         var diff = t2 - t1;
+                        // 计算相差的年数
                         var diffYears = Math.floor(diff / years);
-                        var diffDays = Math.floor((diff / days) - diffYears * 365);
+                        // 扣除年数对应的天数后剩余的天数
+                        var remainingDays = Math.floor(diff / days) - diffYears * 365;
+                        // 计算剩余天数对应的小时数
+                        var diffHours = Math.floor((diff % days) / hours);
+                        // 计算剩余小时数对应的分钟数
+                        var diffMinutes = Math.floor((diff % hours) / minutes);
+                        // 计算剩余分钟数对应的秒数
+                        var diffSeconds = Math.floor((diff % minutes) / seconds);
 
-                        // 区分是否有年份.
                         var language = 'zh-CN';
                         if (startYear === String(todayYear)) {
                             document.getElementById("year").innerHTML = todayYear;
-                            var daysTip = 'This site has been running for ' + diffDays + ' days';
+                            var detailedTip = 'This site has been running for ' + remainingDays + ' days, '
+                                + diffHours + ' hours, ' + diffMinutes + ' minutes and ' + diffSeconds + ' seconds';
                             if (language === 'zh-CN') {
-                                daysTip = '本站已运行 ' + diffDays + ' 天';
+                                detailedTip = '本站已运行 ' + remainingDays + ' 天 ' + diffHours + ' 小时 '
+                                    + diffMinutes + ' 分钟 ' + diffSeconds + ' 秒';
                             } else if (language === 'zh-HK') {
-                                daysTip = '本站已運行 ' + diffDays + ' 天';
+                                detailedTip = '本站已運行 ' + remainingDays + ' 天 ' + diffHours + ' 小時 '
+                                    + diffMinutes + ' 分鐘 ' + diffSeconds + ' 秒';
                             }
-                            document.getElementById("sitetime").innerHTML = daysTip;
+                            document.getElementById("sitetime").innerHTML = detailedTip;
                         } else {
                             document.getElementById("year").innerHTML = startYear + " - " + todayYear;
-                            var yearsAndDaysTip = 'This site has been running for ' + diffYears + ' years and '
-                                + diffDays + ' days';
+                            var yearsAndDetailedTip = 'This site has been running for ' + diffYears + ' years, '
+                                + remainingDays + ' days, ' + diffHours + ' hours, ' + diffMinutes + ' minutes and '
+                                + diffSeconds + ' seconds';
                             if (language === 'zh-CN') {
-                                yearsAndDaysTip = '本站已运行 ' + diffYears + ' 年 ' + diffDays + ' 天';
+                                yearsAndDetailedTip = '本站已运行 ' + diffYears + ' 年 ' + remainingDays + ' 天 '
+                                    + diffHours + ' 小时 ' + diffMinutes + ' 分钟 ' + diffSeconds + ' 秒';
                             } else if (language === 'zh-HK') {
-                                yearsAndDaysTip = '本站已運行 ' + diffYears + ' 年 ' + diffDays + ' 天';
+                                yearsAndDetailedTip = '本站已運行 ' + diffYears + ' 年 ' + remainingDays + ' 天 '
+                                    + diffHours + ' 小時 ' + diffMinutes + ' 分鐘 ' + diffSeconds + ' 秒';
                             }
-                            document.getElementById("sitetime").innerHTML = yearsAndDaysTip;
+                            document.getElementById("sitetime").innerHTML = yearsAndDetailedTip;
                         }
                     }
 
@@ -734,8 +747,6 @@
 
 </div>
     </div>
-    
-    <!-- 添加Crisp聊天插件引入脚本 -->
     
     <script type="text/javascript">
         window.CRISP_WEBSITE_ID = "25e6c261-a7e6-45ae-9a4d-dfd2a1dee021";
