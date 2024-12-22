@@ -1511,7 +1511,7 @@
     
 
     <div class="container row center-align"
-         style="margin-bottom: 15px !important;">
+         style="margin-bottom: 15px!important;">
         <div class="col s12 m8 l8 copy-right">
             Copyright&nbsp;&copy;
             
@@ -1548,7 +1548,7 @@
 
             <!-- 运行天数提醒. -->
             
-                <span id="sitetime"> Loading ...</span>
+                <span id="sitetime"> Loading...</span>
                 <script>
                     var calcSiteTime = function () {
                         var seconds = 1000;
@@ -1648,11 +1648,23 @@
 </div>
     </div>
     
-
+    <!-- 添加Crisp聊天插件引入脚本 -->
+    
+    <script type="text/javascript">
+        window.CRISP_WEBSITE_ID = "25e6c261-a7e6-45ae-9a4d-dfd2a1dee021";
+        (function() {
+            d = document;
+            s = d.createElement("script");
+            s.src = "https://client.crisp.chat/l.js";
+            s.async = 1;
+            d.getElementsByTagName("head")[0].appendChild(s);
+        })();
+    </script>
+    
+    
 </footer>
 
 <div class="progress-bar"></div>
-
 
     <!-- 搜索遮罩框 -->
 <div id="searchModal" class="modal">
