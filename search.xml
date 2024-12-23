@@ -1168,7 +1168,7 @@
       
       <categories>
           
-          <category> 直连机场 </category>
+          <category> 机场 </category>
           
       </categories>
       
@@ -1176,6 +1176,8 @@
         <tags>
             
             <tag> 机场测评 </tag>
+            
+            <tag> 直连机场 </tag>
             
         </tags>
       
