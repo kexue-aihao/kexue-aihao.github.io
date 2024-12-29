@@ -376,7 +376,17 @@
 
 
 <script>
-    $('.bg-cover').css('background-image', 'url(/medias/banner/0.jpg)');
+    // 每天切换 banner 图.  Switch banner image every day.
+    var bannerUrl = "/medias/banner/" + new Date().getDay() + '.jpg';
+    $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
+</script>
+<script>
+    
+      // 每天切换 banner 图.  Switch banner image every day.
+      var bannerUrl = "/medias/banner/" + new Date().getDay() + '.jpg';
+    
+    $('.bg-cover.about-cover').css('background-image', 'url(' + bannerUrl + ')');
+
 </script>
 
 
@@ -415,22 +425,6 @@
         <div class="card">
             
             
-            
-                <div class="card" data-aos="fade-up">
-    <div id="utteranc-container" class="card-content">
-        <script src="https://utteranc.es/client.js"
-                repo="kexue-aihao/commit-utterance"
-                issue-term="pathname"
-                theme="github-light"
-                crossorigin="anonymous"
-                async>
-        </script>
-    </div>
-</div>
-        
-        
-        
-
             
 
             
