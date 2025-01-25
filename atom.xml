@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2025-01-23T10:19:21.777Z</updated>
+  <updated>2025-01-25T01:58:27.119Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>赔钱机场测评</title>
+    <link href="https://kexue-aihao.github.io/2025/01/25/pei-qian-ji-chang-0/"/>
+    <id>https://kexue-aihao.github.io/2025/01/25/pei-qian-ji-chang-0/</id>
+    <published>2025-01-25T01:55:20.000Z</published>
+    <updated>2025-01-25T01:58:27.119Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
+&lt;b&gt;编辑 GUID：6708ba86-6ff2-4eec-9508-233244831013&lt;/b&gt;
+&lt;br&gt;
+&lt;b&gt;编辑 UTC 日期和时间:</summary>
+        
+      
+    
+    
+    
+    <category term="机场" scheme="https://kexue-aihao.github.io/categories/%E6%9C%BA%E5%9C%BA/"/>
+    
+    
+    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
+    
+    <category term="直连机场" scheme="https://kexue-aihao.github.io/tags/%E7%9B%B4%E8%BF%9E%E6%9C%BA%E5%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>Kali Linux镜像分流推送</title>
@@ -297,7 +327,7 @@
     <link href="https://kexue-aihao.github.io/2025/01/03/2024-nian-du-zong-jie-bao-gao/"/>
     <id>https://kexue-aihao.github.io/2025/01/03/2024-nian-du-zong-jie-bao-gao/</id>
     <published>2025-01-03T02:09:14.000Z</published>
-    <updated>2025-01-24T14:55:54.770Z</updated>
+    <updated>2025-01-25T01:55:20.076Z</updated>
     
     
       
@@ -541,34 +571,6 @@
     <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
     
     <category term="直连机场" scheme="https://kexue-aihao.github.io/tags/%E7%9B%B4%E8%BF%9E%E6%9C%BA%E5%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Markdown语法表格转HTML语法表格代码分享</title>
-    <link href="https://kexue-aihao.github.io/2025/01/02/markdown-yu-fa-biao-ge-zhuan-html-yu-fa-biao-ge-dai-ma-fen-xiang/"/>
-    <id>https://kexue-aihao.github.io/2025/01/02/markdown-yu-fa-biao-ge-zhuan-html-yu-fa-biao-ge-dai-ma-fen-xiang/</id>
-    <published>2025-01-02T05:50:17.000Z</published>
-    <updated>2025-01-02T05:55:45.490Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
-&lt;b&gt;编辑 GUID：a9c57e92-79c3-4440-93cd-d9863c41b183&lt;/b&gt;
-&lt;br&gt;
-&lt;b&gt;编辑 UTC 日期和时间:</summary>
-        
-      
-    
-    
-    
-    
-    <category term="Python" scheme="https://kexue-aihao.github.io/tags/Python/"/>
-    
-    <category term="实用代码" scheme="https://kexue-aihao.github.io/tags/%E5%AE%9E%E7%94%A8%E4%BB%A3%E7%A0%81/"/>
     
   </entry>
   
