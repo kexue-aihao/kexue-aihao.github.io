@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2025-02-01T11:59:24.594Z</updated>
+  <updated>2025-02-01T12:16:08.250Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>同名Fastlink机场测评</title>
+    <link href="https://kexue-aihao.github.io/2025/02/01/tong-ming-fastlink-ji-chang-ce-ping/"/>
+    <id>https://kexue-aihao.github.io/2025/02/01/tong-ming-fastlink-ji-chang-ce-ping/</id>
+    <published>2025-02-01T12:15:42.000Z</published>
+    <updated>2025-02-01T12:16:08.250Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
+&lt;b&gt;编辑 GUID：d74427ec-1e7d-4dcd-8ce2-94f72a7e2dc9&lt;/b&gt;
+&lt;br&gt;
+&lt;b&gt;编辑 UTC 日期和时间:</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>服务器测速后端招募</title>
@@ -543,36 +567,6 @@
     <category term="废弃订阅" scheme="https://kexue-aihao.github.io/tags/%E5%BA%9F%E5%BC%83%E8%AE%A2%E9%98%85/"/>
     
     <category term="回收贴" scheme="https://kexue-aihao.github.io/tags/%E5%9B%9E%E6%94%B6%E8%B4%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>失心疯机场测评</title>
-    <link href="https://kexue-aihao.github.io/2025/01/02/shi-xin-feng-ji-chang-ce-ping/"/>
-    <id>https://kexue-aihao.github.io/2025/01/02/shi-xin-feng-ji-chang-ce-ping/</id>
-    <published>2025-01-02T08:14:18.000Z</published>
-    <updated>2025-01-02T09:13:39.655Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
-&lt;b&gt;编辑 GUID：7e5360dc-819e-4c26-89b1-5c84389cac2b&lt;/b&gt;
-&lt;br&gt;
-&lt;b&gt;编辑 UTC 日期和时间:</summary>
-        
-      
-    
-    
-    
-    <category term="机场" scheme="https://kexue-aihao.github.io/categories/%E6%9C%BA%E5%9C%BA/"/>
-    
-    
-    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
-    
-    <category term="直连机场" scheme="https://kexue-aihao.github.io/tags/%E7%9B%B4%E8%BF%9E%E6%9C%BA%E5%9C%BA/"/>
     
   </entry>
   
