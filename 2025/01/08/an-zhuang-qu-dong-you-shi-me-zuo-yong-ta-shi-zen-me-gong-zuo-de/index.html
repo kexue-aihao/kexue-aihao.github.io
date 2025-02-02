@@ -413,14 +413,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    413
+                    811
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    1 分
+                    2 分
                 </div>
                 
 
@@ -470,7 +470,21 @@
 </p>
 
 <p style="font-family:'楷体';font-size:1.8em;">
-•
+<b>
+1. 驱动的作用：
+</b>
+</p>
+
+<p style="font-family:'楷体';font-size:1.2em;">
+&nbsp;&nbsp;&nbsp;&nbsp;①硬件抽象：驱动程序将硬件的具体操作（如寄存器访问、传感器读数等）抽象为高层的接口或API,供操作系统和应用程序使用。用户无需直接操作硬件，只需要调用驱动提供的接口即可。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;②设备识别和控制：驱动程序帮助操作系统识别连接的设备，获取设备的特性和状态（例如，USB设备会通过VID/PID识别设备类型）。然后驱动会按照设备特性，负责初始化设备，配置硬件，并根据操作系统的需求执行相应的操作。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;③数据传输：驱动程序管理设备和操作系统之间的数据传输。对于输入设备，驱动将数据从硬件（如键盘、鼠标的输入）传送到操作系统；对于输出设备（如显示器、打印机等），驱动程序负责将操作系统的数据传递给硬件。　　
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;④设备中断处理：当设备有重要事件发生（如USB设备连接、硬盘读写完成等），硬件会向操作系统发出中断请求。驱动程序负责处理中断，将硬件的请求转换为操作系统可以理解的事件。
+<br>　　
+&nbsp;&nbsp;&nbsp;&nbsp;⑤设备资源管理：驱动程序负责管理设备的硬件资源，比如分配内存空间、设置I/O端口、配置DMA通道等，以便设备可以顺利工作。
 </p>
 
 <hr>
@@ -955,7 +969,7 @@ Bug反馈例子 Markdown 源码
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">115.7k</span>
+                        class="white-color">116.1k</span>
             
             
             
