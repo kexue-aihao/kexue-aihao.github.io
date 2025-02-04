@@ -413,14 +413,14 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    1.8k
+                    2.2k
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    6 分
+                    7 分
                 </div>
                 
 
@@ -606,6 +606,25 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; <b>①设备插入：</b>当USB设备插入计算机时，操作系统通过USB总线发现设备并获取其VID/PID.
 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; <b>②查找驱动：</b>操作系统根据VID/PID查找对应的驱动程序，如果找到，则加载驱动程序。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <b>③设备枚举：</b>驱动与USB设备进行通信，完成设备的枚举过程（即获取设备的描述符、端点、接口等信息）。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <b>④驱动初始化设备：</b>驱动程序对设备进行必要的初始化操作，使其准备好工作。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <b>⑤数据传输：</b>应用程序通过操作系统调用驱动接口与设备进行数据传输。例如，如果是U盘，操作系统通过文件系统请求驱动读取U盘中的文件。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <b>⑥中断处理：</b>当设备有事件发生时（如数据传输完成），设备会发出中断信号，驱动程序响应中断并通知操作系统。
+</p>
+
+<p style="font-family:'楷体';font-size:1.8em;">
+<b>
+4.总结
+</b>
+</p>
+
+<p style="font-family:'楷体';font-size:1.2em;">
+&nbsp;&nbsp;&nbsp;&nbsp;驱动程序的核心作用是使操作系统能够与硬件设备通信，它将复杂的硬件操作抽象为操作系统和应用程序可以理解的接口。安装驱动的目的是确保操作系统能够识别并正确使用设备。驱动程序的工作涉及到设备识别、初始化、数据传输和中断处理等多个方面。
 </p>
 
 <hr>
@@ -1090,7 +1109,7 @@ Bug反馈例子 Markdown 源码
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">117.2k</span>
+                        class="white-color">117.5k</span>
             
             
             
