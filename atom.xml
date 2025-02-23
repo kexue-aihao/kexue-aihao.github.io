@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2025-02-18T04:56:09.952Z</updated>
+  <updated>2025-02-23T03:36:17.673Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UUC机场测评</title>
+    <link href="https://kexue-aihao.github.io/2025/02/23/uuc-ji-chang-ce-ping-1/"/>
+    <id>https://kexue-aihao.github.io/2025/02/23/uuc-ji-chang-ce-ping-1/</id>
+    <published>2025-02-23T03:36:17.000Z</published>
+    <updated>2025-02-23T03:36:17.673Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
+&lt;b&gt;编辑 GUID：&lt;/b&gt;
+&lt;br&gt;
+&lt;b&gt;编辑 UTC 日期和时间: &lt;/b&gt;
+&lt;br&gt;
+&lt;b&gt;编辑 UNIX</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>emoji图标旗帜大全</title>
@@ -553,36 +579,6 @@
     <category term="测速后端" scheme="https://kexue-aihao.github.io/tags/%E6%B5%8B%E9%80%9F%E5%90%8E%E7%AB%AF/"/>
     
     <category term="AD" scheme="https://kexue-aihao.github.io/tags/AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>赔钱机场测评</title>
-    <link href="https://kexue-aihao.github.io/2025/01/25/pei-qian-ji-chang-0/"/>
-    <id>https://kexue-aihao.github.io/2025/01/25/pei-qian-ji-chang-0/</id>
-    <published>2025-01-25T01:55:20.000Z</published>
-    <updated>2025-02-11T03:16:00.546Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
-&lt;b&gt;编辑 GUID：372dbecb-46ca-4c76-8b85-73662df8e1e1&lt;/b&gt;
-&lt;br&gt;
-&lt;b&gt;编辑 UTC 日期和时间:</summary>
-        
-      
-    
-    
-    
-    <category term="机场" scheme="https://kexue-aihao.github.io/categories/%E6%9C%BA%E5%9C%BA/"/>
-    
-    
-    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
-    
-    <category term="直连机场" scheme="https://kexue-aihao.github.io/tags/%E7%9B%B4%E8%BF%9E%E6%9C%BA%E5%9C%BA/"/>
     
   </entry>
   
