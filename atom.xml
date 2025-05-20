@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2025-04-26T08:35:45.916Z</updated>
+  <updated>2025-04-19T10:34:51.294Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -15,36 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>光云测评</title>
-    <link href="https://kexue-aihao.github.io/2025/04/26/guang-yun-ce-ping/"/>
-    <id>https://kexue-aihao.github.io/2025/04/26/guang-yun-ce-ping/</id>
-    <published>2025-04-26T06:54:54.000Z</published>
-    <updated>2025-04-26T08:35:45.916Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
-&lt;b&gt;编辑 GUID：9119036d-25ee-4b2f-92df-bf2f1d9f97d0&lt;/b&gt;
-&lt;br&gt;
-&lt;b&gt;编辑 UTC 日期和时间:</summary>
-        
-      
-    
-    
-    
-    <category term="机场" scheme="https://kexue-aihao.github.io/categories/%E6%9C%BA%E5%9C%BA/"/>
-    
-    
-    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
-    
-    <category term="中转机场" scheme="https://kexue-aihao.github.io/tags/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/"/>
-    
-  </entry>
   
   <entry>
     <title>管人痴机场测评</title>
@@ -595,6 +565,36 @@
     
     
     <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
+    
+    <category term="专线机场" scheme="https://kexue-aihao.github.io/tags/%E4%B8%93%E7%BA%BF%E6%9C%BA%E5%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Anrun Network机场测评</title>
+    <link href="https://kexue-aihao.github.io/2025/02/07/anrun-network-ji-chang-ce-ping/"/>
+    <id>https://kexue-aihao.github.io/2025/02/07/anrun-network-ji-chang-ce-ping/</id>
+    <published>2025-02-07T09:11:25.000Z</published>
+    <updated>2025-02-10T04:02:08.969Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
+&lt;b&gt;编辑 GUID：bee2c70a-c98b-4459-a260-a4f864b33b5b&lt;/b&gt;
+&lt;br&gt;
+&lt;b&gt;编辑 UTC 日期和时间:</summary>
+        
+      
+    
+    
+    
+    
+    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
+    
+    <category term="中转机场" scheme="https://kexue-aihao.github.io/tags/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/"/>
     
     <category term="专线机场" scheme="https://kexue-aihao.github.io/tags/%E4%B8%93%E7%BA%BF%E6%9C%BA%E5%9C%BA/"/>
     
