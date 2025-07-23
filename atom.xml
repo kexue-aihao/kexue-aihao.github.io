@@ -6,7 +6,7 @@
   <link href="https://kexue-aihao.github.io/atom.xml" rel="self"/>
   
   <link href="https://kexue-aihao.github.io/"/>
-  <updated>2025-07-20T04:03:52.684Z</updated>
+  <updated>2025-07-23T05:35:11.161Z</updated>
   <id>https://kexue-aihao.github.io/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习编程的几大误区</title>
+    <link href="https://kexue-aihao.github.io/2025/07/23/xue-xi-bian-cheng-de-ji-da-wu-qu/"/>
+    <id>https://kexue-aihao.github.io/2025/07/23/xue-xi-bian-cheng-de-ji-da-wu-qu/</id>
+    <published>2025-07-23T05:35:11.000Z</published>
+    <updated>2025-07-23T05:35:11.161Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
+&lt;b&gt;编辑 GUID：&lt;/b&gt;
+&lt;br&gt;
+&lt;b&gt;编辑 UTC 日期和时间: &lt;/b&gt;
+&lt;br&gt;
+&lt;b&gt;编辑 UNIX</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>学习编程的基础四大件</title>
+    <link href="https://kexue-aihao.github.io/2025/07/23/xue-xi-bian-cheng-de-ji-chu-si-da-jian/"/>
+    <id>https://kexue-aihao.github.io/2025/07/23/xue-xi-bian-cheng-de-ji-chu-si-da-jian/</id>
+    <published>2025-07-23T05:34:42.000Z</published>
+    <updated>2025-07-23T05:34:42.865Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
+&lt;b&gt;编辑 GUID：&lt;/b&gt;
+&lt;br&gt;
+&lt;b&gt;编辑 UTC 日期和时间: &lt;/b&gt;
+&lt;br&gt;
+&lt;b&gt;编辑 UNIX</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>TCP窗口调优参数1G口带宽参数</title>
@@ -555,64 +607,6 @@
     
     
     <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
-    
-    <category term="直连机场" scheme="https://kexue-aihao.github.io/tags/%E7%9B%B4%E8%BF%9E%E6%9C%BA%E5%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>乐速机场测评</title>
-    <link href="https://kexue-aihao.github.io/2025/03/03/le-su-ji-chang-ce-ping/"/>
-    <id>https://kexue-aihao.github.io/2025/03/03/le-su-ji-chang-ce-ping/</id>
-    <published>2025-03-03T05:29:13.000Z</published>
-    <updated>2025-03-04T12:30:48.301Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
-&lt;b&gt;编辑 GUID：4d1a2999-ce87-430d-a7c0-ee7f5b204b42&lt;/b&gt;
-&lt;br&gt;
-&lt;b&gt;编辑 UTC 日期和时间:</summary>
-        
-      
-    
-    
-    
-    
-    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
-    
-    <category term="专线机场" scheme="https://kexue-aihao.github.io/tags/%E4%B8%93%E7%BA%BF%E6%9C%BA%E5%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>FG机场测评</title>
-    <link href="https://kexue-aihao.github.io/2025/03/03/fg-ji-chang-ce-ping/"/>
-    <id>https://kexue-aihao.github.io/2025/03/03/fg-ji-chang-ce-ping/</id>
-    <published>2025-03-03T01:23:21.000Z</published>
-    <updated>2025-03-04T03:59:19.415Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p style=&quot;font-family: &#39;楷体&#39;; font-size: 1.2em;&quot;&gt;
-&lt;b&gt;编辑 GUID：1a01c9ee-38af-4c84-9390-74952e181c46&lt;/b&gt;
-&lt;br&gt;
-&lt;b&gt;编辑 UTC 日期和时间:</summary>
-        
-      
-    
-    
-    
-    
-    <category term="机场测评" scheme="https://kexue-aihao.github.io/tags/%E6%9C%BA%E5%9C%BA%E6%B5%8B%E8%AF%84/"/>
-    
-    <category term="中转机场" scheme="https://kexue-aihao.github.io/tags/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/"/>
     
     <category term="直连机场" scheme="https://kexue-aihao.github.io/tags/%E7%9B%B4%E8%BF%9E%E6%9C%BA%E5%9C%BA/"/>
     
