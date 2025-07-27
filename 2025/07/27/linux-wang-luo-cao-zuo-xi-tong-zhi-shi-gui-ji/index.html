@@ -430,14 +430,14 @@ Linux网络">
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    344
+                    1.1k
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    1 分
+                    4 分
                 </div>
                 
 
@@ -494,7 +494,77 @@ Linux网络">
 1.Linux操作系统的起源与发展
 <br>
 • Linux操作系统的诞生与unix操作系统息息相关
+<br>
+• Linux系统起源与unix，unix操作系统是1969年由肯·汤普森和丹尼斯·里奇两位博士在贝尔实验室开发的一款操作系统
+<br>
+• 1991年10月5日，诞生了Linux内核，并诞生了第一个Linux操作系统，由林纳斯·托瓦兹和其他开发人员完成
 </p>
+
+
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub代码块预览示例</title>
+    <!-- 引入highlight.js核心库 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+    <!-- 引入JavaScript语言的语法高亮插件（这里以JavaScript为例，可按需添加其他语言） -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/javascript.min.js"></script>
+    <!-- 引入用于模拟GitHub代码块样式的CSS文件 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css">
+    <!-- 引入显示行号的样式文件（可选，但能让效果更接近GitHub） -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/atom-one-dark.min.css">
+
+
+
+    <p style="font-family: '楷体'; font-size: 1.2em;">
+GNU与GPL分别是什么？
+    </p>
+    <pre><code class="language-md">
+# GNU 和 GPL 核心概念解析
+
+<h2 id="1-GNU"><a href="#1-GNU" class="headerlink" title="1. GNU"></a>1. GNU</h2><p><strong>全称</strong>：GNU’s Not Unix（递归缩写，意为 “GNU 不是 Unix”）</p>
+<p><strong>定义</strong>：GNU 是一个由理查德・斯托曼（Richard Stallman）于 1983 年发起的自由软件项目，目标是开发一个完全自由、与 UNIX 兼容的操作系统（即 GNU 操作系统），确保用户对软件拥有使用、修改、复制和分发的自由。</p>
+<p><strong>核心理念</strong>：</p>
+<ul>
+<li>倡导 “自由软件”（Free Software），这里的 “自由” 指用户拥有四大自由：<ul>
+<li>自由运行软件（无论目的）；</li>
+<li>自由研究软件工作原理并修改它（获得源代码是前提）；</li>
+<li>自由再分发副本（帮助他人）；</li>
+<li>自由改进软件并公开发布改进版（让整个社区受益）。</li>
+</ul>
+</li>
+</ul>
+<p><strong>主要成果</strong>：<br>GNU 项目开发了大量自由软件工具，构成了操作系统的核心组件，例如：</p>
+<ul>
+<li>编译器（GCC）</li>
+<li>编辑器（Emacs）</li>
+<li>shell（Bash）</li>
+<li>文件工具（coreutils）等。</li>
+</ul>
+<p>这些工具后来与 Linux 内核结合，形成了我们通常所说的 “Linux 操作系统”（严格来说应称为 “GNU/Linux 操作系统”，因为内核是 Linux，其他大部分工具来自 GNU）。</p>
+<h2 id="2-GPL"><a href="#2-GPL" class="headerlink" title="2. GPL"></a>2. GPL</h2><p><strong>全称</strong>：GNU General Public License（GNU 通用公共许可证）</p>
+<p><strong>定义</strong>：GPL 是由 GNU 项目制定的软件许可证协议，旨在保护自由软件的 “自由”，确保软件及其修改版始终保持开源和自由可分发。</p>
+<p><strong>核心条款</strong>：</p>
+<ul>
+<li>copyleft（著佐权）：与传统版权（copyright）限制传播不同，copyleft 要求软件的修改版或衍生作品必须以相同的 GPL 许可证发布，且必须公开源代码，确保自由的 “传染性”。</li>
+<li>允许商业使用、修改和分发，但禁止将软件闭源或限制他人的自由权利。</li>
+<li>例如，若你修改了一个 GPL 许可的程序并发布，必须同时提供修改后的源代码，且衍生作品也需遵循 GPL。</li>
+</ul>
+<p><strong>版本</strong>：</p>
+<ul>
+<li>常见版本包括 GPLv2（1991 年）和 GPLv3（2007 年，增加了对数字版权管理、专利授权等问题的约束）。</li>
+</ul>
+<h2 id="GNU-与-GPL-的关系"><a href="#GNU-与-GPL-的关系" class="headerlink" title="GNU 与 GPL 的关系"></a>GNU 与 GPL 的关系</h2><p>GPL 是 GNU 项目为实现其自由软件理念而设计的核心许可证。GNU 项目开发的软件几乎都采用 GPL 许可，通过法律条款确保软件的自由属性不被剥夺。简单来说：</p>
+<ul>
+<li>GNU 是项目和理念，目标是创建自由操作系统；</li>
+<li>GPL 是法律工具，保障这一理念的实现。</li>
+</ul>
+</code><p><code class="language-md">二者共同推动了自由软件社区的发展，也是 Linux 等开源系统能够广泛传播的重要基础（Linux 内核采用 GPLv2 许可）。<br>    </code></p></pre><br>    <script><br>        hljs.initHighlightingOnLoad();<br>    </script><p></p>
+
+
+
 
 <hr>
 <br>
@@ -988,7 +1058,7 @@ Bug反馈例子 Markdown 源码
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">142.6k</span>
+                        class="white-color">143.4k</span>
             
             
             
